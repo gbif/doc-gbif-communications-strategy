@@ -1,5 +1,31 @@
-== Audience Segmentation
+== AUDIENCE 3. Biological knowledge experts
 
-Each audience encompasses several constituent segments, whose related interests in GBIF vary in specific emphasis or detail. These segments provide the true locus for implementing the strategy, because they enable GBIF to prioritize specific groups and then act to engage them. Segmentation enables GBIF, for example, to acknowledge the inherent similarities between natural history collection curators and citizen scientists as ‘data holders’, while choosing to target outreach activities towards each segment at different times and to use different engagement techniques. 
+=== Constituent segments
 
-Effective engagement with each of these audiences will enhance GBIF’s ability to achieve its mission, and effective targeting of specific segments will expand knowledge and appreciation of GBIF across the several overlapping communities that make up the network, and who use and benefit from its activities.
+* Zoologists, botanists, mycologists and other species specialists
+* Taxonomists
+* Ecologists
+* Expert networks 
+* Nomenclatural associations
+
+=== Primary communication needs 
+
+* Familiarity with GBIF’s current activities, capabilities, limitations and potential as a global virtual natural history collection
+* Guidance about how best to engage with the GBIF network and its data holders to steadily and consistently improve the quality of open access biodiversity information
+* Assurance of the value of such engagement in terms of advancing their own professional interests, the biological sciences and biodiversity conservation
+
+This audience represents a core community of individual scientists and experts. Their confidence in the usefulness of data mobilized through GBIF depends crucially on constant improvement in data quality, and this requires expertise that can only realistically come from voluntary curation from existing knowledge networks. Some of the strongest criticisms of GBIF have come within this group, as these experts are acutely aware of shortcomings in data quality that have arisen from the comparatively open system of publishing data through GBIF. Effective engagement with their ongoing work is critical for expanding and refining the pool of high-quality globally consistent biodiversity data for all other users. 
+
+Among the key communication challenges related to this audience is to ensure that their view of GBIF is based on accurate, up-to-date information about the network and the data it serves, rather than outdated impressions arising from earlier experiences and preconceptions. These experts need to believe that they themselves have an interest in contributing their expertise to assist in curating and improving the data published through GBIF. A major communication task in relation to this audience is to turn critics into collaborators. Biodiversity knowledge experts require persuasion that GBIF offers a robust research infrastructure—a ‘virtual natural history collection’ that enables curation of biodiversity knowledge and provides scientific evidence that supports both research and policy. 
+
+This group possesses knowledge for identifying both the gaps in the data currently accessible through GBIF and the shortcomings of the data already available. Targeted engagement can help tap that knowledge to develop priorities for data mobilization and to improve the accuracy and fitness for use of data already served by GBIF’s publishers. Succeeding with this strategy will eliminate the false distinction between ‘GBIF data’ and ‘expert knowledge’: these sources of information can and should be viewed as integrated and mutually reinforcing.
+
+=== Key messages 
+
+GBIF is particularly valuable to biodiversity knowledge experts because it:
+
+* Provides a platform for collaborative collection management and taxonomy that helps establish a ‘virtual natural history collection’ for the planet
+* Pools the expertise of biodiversity specialists in order to improve the quality of freely available digital data, to the benefit of all
+* Provides the means for long-term persistence of biodiversity collections data as insurance against potential loss of original data sources
+* Enables discovery of millions of specimens and observation records, increasingly accompanied by images or audio recordings, with links enabling further study
+* Complements the work of expert groups by integrating evidence that may inform judgments on species ranges and/or conservation priorities, while providing the means for publication and curation of occurrence data arising from expert assessments.
