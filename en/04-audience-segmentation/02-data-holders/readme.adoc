@@ -1,5 +1,43 @@
-== Audience Segmentation
+== AUDIENCE 2. Data holders
 
-Each audience encompasses several constituent segments, whose related interests in GBIF vary in specific emphasis or detail. These segments provide the true locus for implementing the strategy, because they enable GBIF to prioritize specific groups and then act to engage them. Segmentation enables GBIF, for example, to acknowledge the inherent similarities between natural history collection curators and citizen scientists as ‘data holders’, while choosing to target outreach activities towards each segment at different times and to use different engagement techniques. 
+=== Constituent segments 
 
-Effective engagement with each of these audiences will enhance GBIF’s ability to achieve its mission, and effective targeting of specific segments will expand knowledge and appreciation of GBIF across the several overlapping communities that make up the network, and who use and benefit from its activities.
+* Current GBIF data publishers
+*	Natural history collection curators, informaticians and scientists
+*	Field biologists
+*	Citizen scientists, voluntary recording networks and observation aggregating sites 
+*	Authors, editors and publishers of scientific research
+*	Libraries and other custodians of historic biodiversity-related literature and multimedia archives
+*	Generators of remotely-sensed data including camera traps, acoustic monitoring and satellite/aerial observations
+*	Organizers and practitioners of surveys and monitoring programmes carried out for public agencies, protected area management and non-governmental organizations.
+*	Corporate staff and consultants and regulatory authorities holding primary biodiversity data from environmental impact assessments
+*	Researchers conducting genetic sequencing, barcoding and metagenomic sampling
+*	Indigenous and local communities
+
+=== Primary communication needs 
+
+*	Information on the importance and benefits of sharing and publishing data in standard formats that make them widely discoverable and re-usable
+*	Clear guidance on how to publish data 
+*	Onward communication tools to make the case for investment in digitization and publication of biodiversity data 
+
+This audience represents the owners and custodians of the biodiversity data currently or potentially documented through the GBIF network. Much of the work to date across the GBIF community has focused on mobilizing these data, and much more remains to be done. To advance GBIF’s mission, a number of critical communication needs must be met for this audience.
+
+First, the importance of and benefits from sharing biodiversity data in suitable formats and under clear conditions of use must be constantly re-iterated and expressed in compelling terms.  This is true not just for potential new data publishers, but for existing publishers who need to be convinced they should continue to make their data freely and openly accessible through GBIF.
+
+Second, data holders need guidance on how to mobilize and publish their data using common standards to make them discoverable and available for re-use in research and decision-making. Data holders are much more likely to overcome the social and cultural barriers to data sharing if they have clear recommendations and support for the technical steps needed to publish their data.
+
+Finally, data holders need secondary communication tools that enable them to make the case for investment in and commitment to mobilizing data, both within their own institutions and to potential funders, These resources must demonstrate the value of large-scale digitization of natural history collections, including mechanisms to report the uses made of individual datasets and records based on download requests and citations. 
+
+To reach the whole of this audience, communication tools need to be suitable for a wide range of different groups, including people still unfamiliar with the arguments for and techniques of biodiversity data publication. These may include local authorities, indigenous and local communities, and corporate holders of biodiversity data.
+
+For this audience too, two-way communication is important. Through its global communication channels, GBIF can and already does publicize the efforts made by individual publishers to share their datasets for the public good; this can help to bring recognition for those efforts and even encourage competition among institutions to establish a good reputation for data sharing.
+
+=== Key messages 
+
+GBIF is particularly valuable to data holders because it:
+
+* Enables efficient means to mobilize, manage and publish digital biodiversity data
+*	Helps provide institutional visibility and recognition for sharing biodiversity data in formats suitable for discovery and re-use
+*	Provides free, open-access tools and guidance for publishing digital datasets
+*	Promotes practices that ensure data persistence and data provenance
+*	Helps comply with open data regulations and requirements
