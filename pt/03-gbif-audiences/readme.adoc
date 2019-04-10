@@ -1,0 +1,16 @@
+== GBIF’s Audiences
+
+Previous assessments have reviewed the make-up of GBIF’s audiences with an emphasis on institutional affiliations—that is, whether an individual works for or represents a national government, a multilateral environmental agreement, a non-governmental or intergovernmental organization, or a research body; and in the case of GBIF Participants, whether individuals work as Heads of Delegation, node managers or in other roles. 
+
+While such information can be meaningful and relevant, the emphasis here is placed on the individuals and what they need from GBIF. More specifically, the strategy places its focus on how an individual would use or interact with GBIF. The audiences are selected based on the distinct communication needs they share, and the common messages and information resources required to meet them.
+
+The strategy identifies distinct engagement needs across a set of six broadly defined audiences, and within those broad groups it distinguishes functionally coherent, actionable audience segments. It should be emphasized that these are non-exclusive groups: many individuals will fall into more than one category but may require separate sets of messages and information resources for multiple roles relevant to GBIF’s activities. The strategy defines GBIF’s main audiences as:
+
+*	The GBIF network
+*	Data holders
+*	Biological knowledge experts
+*	Data users
+*	Decision makers
+*	Public stakeholders
+
+To maintain its current activities and to grow into emerging ones, GBIF must improve the effectiveness of its communications with each of these broad audiences. 

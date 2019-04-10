@@ -1,0 +1,5 @@
+== Audience Segmentation
+
+Each audience encompasses several constituent segments, whose related interests in GBIF vary in specific emphasis or detail. These segments provide the true locus for implementing the strategy, because they enable GBIF to prioritize specific groups and then act to engage them. Segmentation enables GBIF, for example, to acknowledge the inherent similarities between natural history collection curators and citizen scientists as ‘data holders’, while choosing to target outreach activities towards each segment at different times and to use different engagement techniques. 
+
+Effective engagement with each of these audiences will enhance GBIF’s ability to achieve its mission, and effective targeting of specific segments will expand knowledge and appreciation of GBIF across the several overlapping communities that make up the network, and who use and benefit from its activities.
