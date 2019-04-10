@@ -1,5 +1,36 @@
-== Audience Segmentation
+== AUDIENCE 4. Data users
 
-Each audience encompasses several constituent segments, whose related interests in GBIF vary in specific emphasis or detail. These segments provide the true locus for implementing the strategy, because they enable GBIF to prioritize specific groups and then act to engage them. Segmentation enables GBIF, for example, to acknowledge the inherent similarities between natural history collection curators and citizen scientists as ‘data holders’, while choosing to target outreach activities towards each segment at different times and to use different engagement techniques. 
+=== Constituent segments
 
-Effective engagement with each of these audiences will enhance GBIF’s ability to achieve its mission, and effective targeting of specific segments will expand knowledge and appreciation of GBIF across the several overlapping communities that make up the network, and who use and benefit from its activities.
+*	Biologists, including zoologists, botanists and other specialists
+*	Ecologists, including macroecologists and biogeographers 
+*	Species distribution modellers (includes analysts of climate change impacts, invasive species risk, human disease vectors)
+*	Conservation practitioners, including protected area planners and natural resource managers
+*	Environmental impact analysts and strategic spatial planning authorities
+*	Genetic resources experts (for crop diversity, medicinal compounds etc.)
+*	Ecosystem assessment community
+
+=== Primary communication needs
+
+*	Promoting wider knowledge of GBIF’s ability to provide significant volumes of data fit for many of the uses these groups require
+*	Fostering appreciation of the value and efficiency of having data from many different sources available from a single point of access 
+*	Information resources on how to discover and use data through GBIF to best advantage, including recommendations on data filtering and cleaning
+*	Communicating the importance of good citation practices and providing the means to implement them simply  
+
+Users of the data available through GBIF encompass a wide range of specialists interested in the recorded distribution of species over space and time for a variety of reasons. Their interests may be to advance scientific understanding of evolutionary processes, trait development and ecological patterns over millions of years; they may involve modelling of species range shifts and future risks of pest and disease outbreaks based on climate change projections; they may also inform current decisions on the design of parks and the sensitive siting of industrial or residential developments. An emerging group of users are the practitioners of ecosystem assessments that evaluate the many provisioning, regulating, cultural and other support services provided by biodiversity to human societies and advise on the consequences of different policy scenarios.
+
+Despite the diversity of these users, the disciplines and the sectors from which they emerge, they share a number of communication needs. Broadly speaking, their interest is in the availability of sufficient volumes of biodiversity data of sufficient quality and coverage to address their research or policy questions. This audience must first be aware of the potential for GBIF to provide for those needs, and this requires GBIF to communicate its services effectively in the information channels used by these groups. They must have access to appropriate information and guidance to enable them to use GBIF’s data resources to best effect.
+
+Once such users succeed in making effective use of GBIF-mediated data, they can then become important communicators on GBIF’s behalf. They value the efficiency of a one-stop shop for biodiversity data, and they can argue persuasively that investment in the GBIF infrastructure creates cost savings by avoiding the need for time-consuming searches through multiple data sources. Two-way communication and engagement with such users has proven to be an effective communication tool by the Secretariat and others in the community to demonstrate GBIF’s value. 
+
+A final important communication requirement for data users is to convey the importance of proper citation of original data sources in research or policy publications. While the primary interest of this audience tends to be accessing useful, reliable data through GBIF rather than in its source publisher, communications should emphasize that the data remain available only if data holders have incentives to share them—and proper attribution through citation is a critical part of that. Especially with the development of Digital Object Identifiers (DOIs) for datasets and downloads, GBIF should strongly promote best practices for data users to credit publishers and cite data accurately. 
+
+=== Key messages 
+
+GBIF is particularly valuable to data users because it:
+
+*	Provides a one-stop shop for large volumes of relevant, well-organized data on the occurrence of species over space and time
+*	Reduces costs of research by preventing the need to discover and obtain data from multiple sources
+*	Enables modelling of species distributions to inform a wide range of research and policy goals
+*	Provides a data layer that can be combined and integrated with other geospatial layers to create compelling visualizations for many applications
+*	Integrates evidence of species occurrence that can supplement other sources to create inventories and checklists for any geographical area, including changes over time
