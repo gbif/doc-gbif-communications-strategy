@@ -1,19 +1,22 @@
 #!/bin/bash -e
 
+# Enable the **/*.en.adoc below.
 shopt -s globstar
 
+# Produce the translated adoc source from the po-files.
 for lang in po/??.po; do
 	langcode=$(basename $lang .po)
 	for doc in **/*.en.adoc; do
 		po4a-translate -f asciidoc -M utf-8 -m $doc -p $lang -k 0 -l $(dirname $doc)/$(basename $doc .en.adoc).$langcode.adoc
 	done
+	# Convert some includes to refer to the translated versions (this needs improvement).
 	perl -pi -e 's/([A-Za-z0-9_-]+).en.adoc/\1.pt.adoc/' index.$langcode.adoc
 done
 
+# Generate the output HTML and PDF.
 for lang in en po/??.po; do
 	langcode=$(basename $lang .po)
-	asciidoctor -o index-single.$langcode.html -a lang=$langcode index.$langcode.adoc
-	asciidoctor -r /usr/local/lib/asciidoctor/multipage-html5-converter.rb -b multipage_html5 -a lang=$langcode index.$langcode.adoc
+	asciidoctor     -a lang=$langcode index.$langcode.adoc
 	asciidoctor-pdf -a lang=$langcode index.$langcode.adoc
 done
 
