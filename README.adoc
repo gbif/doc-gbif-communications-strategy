@@ -1,5 +1,13 @@
-# GBIF communications strategy
+= GBIF Communications Strategy
 
 This document summarizes how GBIF can give structure to its communication activities within its present community, while seeking to expand in the coming years.
 
-It is also available in Portuguese.
+It is available in English and Portuguese.
+
+_This is information *about* this document's source code.  It is not part of the document._
+
+The document is available in a temporary location as HTML (https://labs.gbif.org/documents/gbif-communications-strategy/index.en.html[EN], https://labs.gbif.org/documents/gbif-communications-strategy/index.pt.html[PT]) and PDF (https://labs.gbif.org/documents/gbif-communications-strategy/index.en.pdf[EN], https://labs.gbif.org/documents/gbif-communications-strategy/index.en.pdf[PT]).
+
+The build status is https://builds.gbif.org/job/doc-gbif-communications-strategy/[image:https://builds.gbif.org/job/doc-gbif-communications-strategy/badge/icon[Build status]]
+
+See https://labs.gbif.org/documents/gbif-communications-strategy/[the generated document] for the guidelines (or read the source files in this repository).
