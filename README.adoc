@@ -1,1 +1,5 @@
-# gbif-communication-strategy
+# GBIF communications strategy
+
+This document summarizes how GBIF can give structure to its communication activities within its present community, while seeking to expand in the coming years.
+
+It is also available in Portuguese.
