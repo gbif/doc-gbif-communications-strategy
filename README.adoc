@@ -6,7 +6,7 @@ It is available in English and Portuguese.
 
 _This is information *about* this document's source code.  It is not part of the document._
 
-The document is available in a temporary location as HTML (https://labs.gbif.org/documents/gbif-communications-strategy/index.en.html[EN], https://labs.gbif.org/documents/gbif-communications-strategy/index.pt.html[PT]) and PDF (https://labs.gbif.org/documents/gbif-communications-strategy/index.en.pdf[EN], https://labs.gbif.org/documents/gbif-communications-strategy/index.en.pdf[PT]).
+The document is available in a temporary location as HTML (https://labs.gbif.org/documents/gbif-communications-strategy/index.en.html[EN], https://labs.gbif.org/documents/gbif-communications-strategy/index.pt.html[PT]) and PDF (https://labs.gbif.org/documents/gbif-communications-strategy/index.en.pdf[EN], https://labs.gbif.org/documents/gbif-communications-strategy/index.pt.pdf[PT]).
 
 The build status is https://builds.gbif.org/job/doc-gbif-communications-strategy/[image:https://builds.gbif.org/job/doc-gbif-communications-strategy/badge/icon[Build status]]
 
