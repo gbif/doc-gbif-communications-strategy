@@ -1,4 +1,5 @@
 .DS_Store
+*.asis
 *.html
 *.pdf
 *.??.adoc
