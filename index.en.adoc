@@ -1,12 +1,19 @@
 = GBIF Communications Strategy
+GBIF Secretariat <https://www.gbif.org/>
 :toc: left
 :toclevels: 3
 :numbered:
-:hardbreaks:
 :revnumber: 0.0-demo
 :revdate: {localdate}
 :icons: font
 :pagenums:
+
+[preface]
+== Preface
+
+This document summarizes how GBIF can give structure to its communication activities within its present community, while seeking to expand in the coming years. It is also available in Portuguese.
+
+This version incorporates changes recommended by members of the GBIF community.
 
 include::01-background/index.en.adoc[]
 
@@ -27,3 +34,14 @@ include::04-audience-segmentation/04-data-users/index.en.adoc[leveloffset=+1]
 include::04-audience-segmentation/05-decision-makers/index.en.adoc[leveloffset=+1]
 
 include::04-audience-segmentation/06-public-stakeholders/index.en.adoc[leveloffset=+1]
+
+[appendix]
+== License and citation
+
+(C) GBIF Secretariat 2015.
+
+This work is licensed under a https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License].
+
+=== Citation
+
+GBIF Secretariat (2015) GBIF Communication Strategy. 10 pp. Copenhagen: GBIF Secretariat. Accessed at http://www.gbif.org/document/80926.
