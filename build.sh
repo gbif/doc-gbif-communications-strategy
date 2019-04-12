@@ -10,7 +10,7 @@ for lang in translations/??.po; do
 		po4a-translate -f asciidoc -M utf-8 -m $doc -p $lang -k 0 -l $(dirname $doc)/$(basename $doc .en.adoc).$langcode.adoc
 	done
 	# Convert some includes to refer to the translated versions (this needs improvement).
-	perl -pi -e 's/([A-Za-z0-9_-]+).en.adoc/\1.pt.adoc/' index.$langcode.adoc
+	perl -pi -e 's/([A-Za-z0-9_-]+).en.adoc/\1.'$langcode'.adoc/' index.$langcode.adoc
 done
 
 # Generate the output HTML and PDF.
