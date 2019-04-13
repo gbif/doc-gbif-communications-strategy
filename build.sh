@@ -4,6 +4,7 @@
 shopt -s globstar
 
 # Produce the translated adoc source from the po-files.
+# po4a -v po4a.conf
 for lang in translations/??.po; do
 	langcode=$(basename $lang .po)
 	for doc in **/*.en.adoc; do
@@ -14,22 +15,22 @@ for lang in translations/??.po; do
 done
 
 # Generate the output HTML and PDF.
-rm -f **/*.html **/*.pdf *.asis
+rm -f **/*.??.html **/*.??.pdf *.??.asis
 for lang in en translations/??.po; do
 	langcode=$(basename $lang .po)
 	mkdir -p $langcode
 	asciidoctor     -o $langcode/index.$langcode.html -a lang=$langcode index.$langcode.adoc
 	asciidoctor-pdf -o $langcode/index.$langcode.pdf -a lang=$langcode index.$langcode.adoc
 
-	cat > index.$langcode.asis <<EOF
-Status: 303 See Other
-Location: ./$langcode/
-Content-Type: text/html; charset=UTF-8
-Content-Language: $langcode
-Vary: negotiate,accept-language
+	cat > index.$langcode.asis <<-EOF
+		Status: 303 See Other
+		Location: ./$langcode/
+		Content-Type: text/html; charset=UTF-8
+		Content-Language: $langcode
+		Vary: negotiate,accept-language
 
-See <a href="./$langcode/">$langcode</a>.
-EOF
+		See <a href="./$langcode/">$langcode</a>.
+	EOF
 
 done
 

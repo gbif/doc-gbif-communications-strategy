@@ -4,5 +4,4 @@
 *.pdf
 *.??.adoc
 !*.en.adoc
-*.pot
 *.mo
