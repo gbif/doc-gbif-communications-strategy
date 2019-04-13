@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2019-04-12 14:53+0200\n"
+"POT-Creation-Date: 2019-04-13 11:26+0000\n"
 "PO-Revision-Date: 2019-04-12 14:59+0200\n"
 "Last-Translator: GBIF.PT, Nó Português do GBIF\n"
 "Language-Team: \n"
@@ -44,29 +44,29 @@ msgid "This version incorporates changes recommended by members of the GBIF comm
 msgstr "Esta versão da estratégia incorpora alterações recomendadas pelos membros da comunidade GBIF."
 
 #. type: Title ==
-#: index.en.adoc:39
+#: index.en.adoc:43
 #, no-wrap
 msgid "License and citation"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:42
+#: index.en.adoc:46
 msgid "(C) GBIF Secretariat 2015."
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:44
+#: index.en.adoc:48
 msgid "This work is licensed under a https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License]."
 msgstr "Este trabalho está licenciado com uma Licença https://creativecommons.org/licenses/by/4.0/[Creative Commons - Atribuição 4.0 Internacional]."
 
 #. type: Title ===
-#: index.en.adoc:45
+#: index.en.adoc:49
 #, no-wrap
 msgid "Citation"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:47
+#: index.en.adoc:51
 msgid "GBIF Secretariat (2015) GBIF Communication Strategy. 10 pp. Copenhagen: GBIF Secretariat. Accessed at http://www.gbif.org/document/80926."
 msgstr ""
 
