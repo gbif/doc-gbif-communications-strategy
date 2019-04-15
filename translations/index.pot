@@ -20,7 +20,7 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "GBIF Communications Strategy"
-msgstr ""
+msgstr "Estratégia de Comunicação"
 
 #. type: Plain text
 #: index.en.adoc:3
@@ -35,66 +35,51 @@ msgstr ""
 
 #. type: Plain text
 #: index.en.adoc:15
-msgid ""
-"This document summarizes how GBIF can give structure to its communication "
-"activities within its present community, while seeking to expand in the "
-"coming years. It is also available in Portuguese."
-msgstr ""
+msgid "This document summarizes how GBIF can give structure to its communication activities within its present community, while seeking to expand in the coming years. It is also available in Portuguese."
+msgstr "Este documento resume como GBIF pode dar estrutura às suas actividades de comunicação dentro de sua comunidade presente, buscando expandir nos próximos anos. Ele também está disponível em inglês."
 
 #. type: Plain text
 #: index.en.adoc:17
-msgid ""
-"This version incorporates changes recommended by members of the GBIF "
-"community."
-msgstr ""
+msgid "This version incorporates changes recommended by members of the GBIF community."
+msgstr "Esta versão da estratégia incorpora alterações recomendadas pelos membros da comunidade GBIF."
 
 #. type: Title ==
 #: index.en.adoc:43
 #, no-wrap
 msgid "License and citation"
-msgstr ""
+msgstr "Licença e citação"
 
 #. type: Plain text
 #: index.en.adoc:46
-msgid "(C) GBIF Secretariat 2015."
+msgid "CC BY 2015 GBIF Secretariat"
 msgstr ""
 
 #. type: Plain text
 #: index.en.adoc:48
-msgid ""
-"This work is licensed under a "
-"https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution "
-"4.0 International License]."
-msgstr ""
+msgid "This work is licensed under a https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 International License] (CC BY 4.0)."
+msgstr "Este trabalho está licenciado um https://creativecommons.org/licenses/by/4.0/deed.pt[Creative Commons Atribuição 4.0 Internacional] (CC BY 4.0)."
 
 #. type: Title ===
 #: index.en.adoc:49
 #, no-wrap
 msgid "Citation"
-msgstr ""
+msgstr "Citação"
 
 #. type: Plain text
 #: index.en.adoc:51
-msgid ""
-"GBIF Secretariat (2015) GBIF Communication Strategy. 10 pp. Copenhagen: GBIF "
-"Secretariat. Accessed at http://www.gbif.org/document/80926."
+msgid "GBIF Secretariat (2015) GBIF Communication Strategy. 10 pp. Copenhagen: GBIF Secretariat. Accessed at http://www.gbif.org/document/80926."
 msgstr ""
 
 #. type: Title ==
 #: 01-background/index.en.adoc:1
 #, no-wrap
 msgid "Background"
-msgstr ""
+msgstr "Antecedentes"
 
 #. type: Plain text
 #: 01-background/index.en.adoc:4
-msgid ""
-"Since its establishment in 2001, GBIF has established an effective "
-"infrastructure that delivers primary biodiversity data and multiplies the "
-"impact of hundreds of other organizations and initiatives. However, the "
-"influence and extent of GBIF’s global network remain relatively "
-"underappreciated."
-msgstr ""
+msgid "Since its establishment in 2001, GBIF has established an effective infrastructure that delivers primary biodiversity data and multiplies the impact of hundreds of other organizations and initiatives. However, the influence and extent of GBIF’s global network remain relatively underappreciated."
+msgstr "Desde que foi criado em 2001, o GBIF estabeleceu uma infraestrutura eficaz que disponibiliza dados primários de biodiversidade e multiplica o impacto de centenas de organizações e iniciativas. No entanto, a influência e a extensão da rede global do GBIF permanecem relativamente subvalorizadas."
 
 #. type: Plain text
 #: 01-background/index.en.adoc:6
