@@ -2,7 +2,7 @@
 
 This document summarizes how GBIF can give structure to its communication activities within its present community, while seeking to expand in the coming years.
 
-It is available in English and Portuguese in both HTML (https://labs.gbif.org/documents/gbif-communications-strategy/pt[EN], https://labs.gbif.org/documents/gbif-communications-strategy/pt[PT]) and PDF (https://labs.gbif.org/documents/gbif-communications-strategy/en.pdf[EN], https://labs.gbif.org/documents/gbif-communications-strategy/index.pt.pdf[PT]). The location of these documents is currently considered temporary. 
+It is available in English and Portuguese in both HTML (https://labs.gbif.org/documents/gbif-communications-strategy/en[EN], https://labs.gbif.org/documents/gbif-communications-strategy/pt[PT]) and PDF (https://labs.gbif.org/documents/gbif-communications-strategy/en.pdf[EN], https://labs.gbif.org/documents/gbif-communications-strategy/index.pt.pdf[PT]). The location of these documents is currently considered temporary. 
 
 _This is information *about* this document's source code.  It is not part of the document._
 
