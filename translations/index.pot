@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-04-13 11:26+0000\n"
+"POT-Creation-Date: 2019-04-16 16:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,14 +27,21 @@ msgstr ""
 msgid "GBIF Secretariat <https://www.gbif.org/>"
 msgstr ""
 
+#. type: Plain text
+#: index.en.adoc:14
+msgid ""
+"_languageLinks:pdf[This document is also available in,PDF format] and "
+"languageLinks:languages[in other languages:,.]_"
+msgstr ""
+
 #. type: Title ==
-#: index.en.adoc:12
+#: index.en.adoc:17
 #, no-wrap
 msgid "Preface"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:15
+#: index.en.adoc:20
 msgid ""
 "This document summarizes how GBIF can give structure to its communication "
 "activities within its present community, while seeking to expand in the "
@@ -42,25 +49,25 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:17
+#: index.en.adoc:22
 msgid ""
 "This version incorporates changes recommended by members of the GBIF "
 "community."
 msgstr ""
 
 #. type: Title ==
-#: index.en.adoc:43
+#: index.en.adoc:46
 #, no-wrap
 msgid "License and citation"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:46
+#: index.en.adoc:49
 msgid "(C) GBIF Secretariat 2015."
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:48
+#: index.en.adoc:51
 msgid ""
 "This work is licensed under a "
 "https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution "
@@ -68,13 +75,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: index.en.adoc:49
+#: index.en.adoc:52
 #, no-wrap
 msgid "Citation"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:51
+#: index.en.adoc:54
 msgid ""
 "GBIF Secretariat (2015) GBIF Communication Strategy. 10 pp. Copenhagen: GBIF "
 "Secretariat. Accessed at http://www.gbif.org/document/80926."
