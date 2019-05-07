@@ -1,13 +1,8 @@
 = GBIF Communications Strategy
 GBIF Secretariat <https://www.gbif.org/>
-:toc: left
-:toclevels: 3
-:numbered:
-:revnumber: {git-metadata-branch}-{git-metadata-sha-short}
-:revdate: {localdate}
-:icons: font
-:pagenums:
-:license: https://creativecommons.org/licenses/by/4.0
+:revnumber: {git-metadata-branch}
+:revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
+:license: https://creativecommons.org/licenses/by/4.0/
 
 ifdef::backend-html5[]
 _languageLinks:pdf[This document is also available in,PDF format] and languageLinks:languages[in other languages:,.]_
