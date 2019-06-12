@@ -1,20 +1,19 @@
-# SOME DESCRIPTIVE TITLE
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: 2019-04-16 19:00+0200\n"
-"PO-Revision-Date: 2019-04-16 19:00+0200\n"
-"Last-Translator: GBIF.PT, Nó Português do GBIF\n"
-"Language-Team: \n"
-"Language: pt\n"
+"Project-Id-Version: gbif-communications-strategy\n"
+"POT-Creation-Date: 2019-05-07 14:48+0000\n"
+"PO-Revision-Date: 2019-06-12 16:05\n"
+"Last-Translator: GBIF Open Source Projects (timrobertson100)\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: gbif-communications-strategy\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /1.0/translations/index.pot\n"
 
 #. type: Title =
 #: index.en.adoc:1
@@ -28,50 +27,50 @@ msgid "GBIF Secretariat <https://www.gbif.org/>"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:14
+#: index.en.adoc:9
 msgid "_languageLinks:pdf[This document is also available in,PDF format] and languageLinks:languages[in other languages:,.]_"
 msgstr ""
 
 #. type: Title ==
-#: index.en.adoc:17
+#: index.en.adoc:12
 #, no-wrap
 msgid "Preface"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:20
+#: index.en.adoc:15
 msgid "This document summarizes how GBIF can give structure to its communication activities within its present community, while seeking to expand in the coming years. It is also available in Portuguese."
 msgstr "Este documento resume como GBIF pode dar estrutura às suas actividades de comunicação dentro de sua comunidade presente, buscando expandir nos próximos anos. Ele também está disponível em inglês."
 
 #. type: Plain text
-#: index.en.adoc:22
+#: index.en.adoc:17
 msgid "This version incorporates changes recommended by members of the GBIF community."
 msgstr "Esta versão da estratégia incorpora alterações recomendadas pelos membros da comunidade GBIF."
 
 #. type: Title ==
-#: index.en.adoc:46
+#: index.en.adoc:41
 #, no-wrap
 msgid "License and citation"
 msgstr "Licença e citação"
 
 #. type: Plain text
-#: index.en.adoc:49
+#: index.en.adoc:44
 msgid "(C) GBIF Secretariat 2015."
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:51
+#: index.en.adoc:46
 msgid "This work is licensed under a https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License]."
 msgstr "Este trabalho está licenciado com uma Licença https://creativecommons.org/licenses/by/4.0/[Creative Commons - Atribuição 4.0 Internacional]."
 
 #. type: Title ===
-#: index.en.adoc:52
+#: index.en.adoc:47
 #, no-wrap
 msgid "Citation"
 msgstr "Citação"
 
 #. type: Plain text
-#: index.en.adoc:54
+#: index.en.adoc:49
 msgid "GBIF Secretariat (2015) GBIF Communication Strategy. 10 pp. Copenhagen: GBIF Secretariat. Accessed at http://www.gbif.org/document/80926."
 msgstr ""
 
@@ -256,11 +255,7 @@ msgid "AUDIENCE 1. The GBIF network"
 msgstr "AUDIÊNCIA 1. A rede GBIF"
 
 #. type: Title ===
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:3
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:3
-#: 04-audience-segmentation/04-data-users/index.en.adoc:3
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:3
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:3
+#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:3 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:3 04-audience-segmentation/04-data-users/index.en.adoc:3 04-audience-segmentation/05-decision-makers/index.en.adoc:3 04-audience-segmentation/06-public-stakeholders/index.en.adoc:3
 #, no-wrap
 msgid "Constituent segments"
 msgstr "Segmentos constituintes"
@@ -291,8 +286,7 @@ msgid "Relevant staff in GBIF affiliate organizations and those with memoranda o
 msgstr "Colaboradores relevantes de organizações afiliadas com o GBIF e com aqueles com memorando de cooperação com o Secretariado do GBIF"
 
 #. type: Title ===
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:11
-#: 04-audience-segmentation/04-data-users/index.en.adoc:13
+#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:11 04-audience-segmentation/04-data-users/index.en.adoc:13
 #, no-wrap
 msgid "Primary communication needs"
 msgstr "Necessidades primárias de comunicação"
@@ -343,12 +337,7 @@ msgid "By providing GBIF network members with a clear framework, shared vocabula
 msgstr "Ao fornecer aos membros da rede GBIF uma estrutura clara, vocabulário partilhado e materiais que contam a história coletiva - o porquê de estarem envolvidos no GBIF, como funciona esse envolvimento, e quais as ferramentas e técnicas que o permitem - os esforços combinados da rede serão melhor compreendidos, reconhecidos e valorizados. Satisfazer as necessidades de comunicação desta audiência é um primeiro passo crítico para a sustentabilidade colaborativa de longo prazo para o desiderato colaborativo do GBIF e os ideais que engloba."
 
 #. type: Title ===
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:29
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:35
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:23
-#: 04-audience-segmentation/04-data-users/index.en.adoc:28
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:24
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:21
+#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:29 04-audience-segmentation/02-data-holders/index.en.adoc:35 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:23 04-audience-segmentation/04-data-users/index.en.adoc:28 04-audience-segmentation/05-decision-makers/index.en.adoc:24 04-audience-segmentation/06-public-stakeholders/index.en.adoc:21
 #, no-wrap
 msgid "Key messages "
 msgstr "Mensagens chave "
@@ -456,9 +445,7 @@ msgid "Indigenous and local communities"
 msgstr "As comunidades indígenas e locais"
 
 #. type: Title ===
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:17
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:11
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:10
+#: 04-audience-segmentation/02-data-holders/index.en.adoc:17 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:11 04-audience-segmentation/05-decision-makers/index.en.adoc:10
 #, no-wrap
 msgid "Primary communication needs "
 msgstr "Necessidades primárias de comunicação "
@@ -916,3 +903,4 @@ msgstr "Promove uma cultura de transparência, acesso aberto e tomada de decisõ
 #: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:28
 msgid "Offers examples of innovative solutions for informatics and research infrastructure that are relevant and applicable to other communities and domains"
 msgstr "Oferece exemplos de soluções informáticas inovadoras e infraestrutura de investigação que é relevante e aplicável a outros domínios e comunidades"
+
