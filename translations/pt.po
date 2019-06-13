@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-communications-strategy\n"
 "POT-Creation-Date: 2019-05-07 14:48+0000\n"
-"PO-Revision-Date: 2019-06-12 16:05\n"
+"PO-Revision-Date: 2019-06-13 03:26\n"
 "Last-Translator: GBIF Open Source Projects (timrobertson100)\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -24,18 +24,18 @@ msgstr "Estratégia de Comunicação"
 #. type: Plain text
 #: index.en.adoc:3
 msgid "GBIF Secretariat <https://www.gbif.org/>"
-msgstr ""
+msgstr "Secretariado GBIF <https://www.gbif.org/>"
 
 #. type: Plain text
 #: index.en.adoc:9
 msgid "_languageLinks:pdf[This document is also available in,PDF format] and languageLinks:languages[in other languages:,.]_"
-msgstr ""
+msgstr "_languageLinks:pdf[Este documento também está disponível em,PDF format] e languageLinks:languages[em outros idiomas:,.]_"
 
 #. type: Title ==
 #: index.en.adoc:12
 #, no-wrap
 msgid "Preface"
-msgstr ""
+msgstr "Prefácio"
 
 #. type: Plain text
 #: index.en.adoc:15
@@ -56,7 +56,7 @@ msgstr "Licença e citação"
 #. type: Plain text
 #: index.en.adoc:44
 msgid "(C) GBIF Secretariat 2015."
-msgstr ""
+msgstr "(C) Secretariado GBIF 2015."
 
 #. type: Plain text
 #: index.en.adoc:46
@@ -72,7 +72,7 @@ msgstr "Citação"
 #. type: Plain text
 #: index.en.adoc:49
 msgid "GBIF Secretariat (2015) GBIF Communication Strategy. 10 pp. Copenhagen: GBIF Secretariat. Accessed at http://www.gbif.org/document/80926."
-msgstr ""
+msgstr "GBIF Secretaria (2015) Estratégia de Comunicação GBIF. 10 pp. Copenhaga: GBIF Secretaria. Acessado em http://www.gbif.org/document/80926."
 
 #. type: Title ==
 #: 01-background/index.en.adoc:1
@@ -365,7 +365,7 @@ msgstr "Permite a integração de dados de fontes nacionais e regionais com dado
 #. type: Plain text
 #: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:37
 msgid "Offers researchers within countries or organizations a cost-effective means of accessing all available data on the occurrence of species"
-msgstr ""
+msgstr "Oferece aos investigadores de países ou organizações um meio rentável de aceder a todos os dados disponíveis sobre a ocorrência de espécies"
 
 #. type: Plain text
 #: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:38
