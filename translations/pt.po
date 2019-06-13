@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-communications-strategy\n"
 "POT-Creation-Date: 2019-05-07 14:48+0000\n"
-"PO-Revision-Date: 2019-06-13 03:26\n"
+"PO-Revision-Date: 2019-06-13 03:35\n"
 "Last-Translator: GBIF Open Source Projects (timrobertson100)\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -40,7 +40,7 @@ msgstr "Prefácio"
 #. type: Plain text
 #: index.en.adoc:15
 msgid "This document summarizes how GBIF can give structure to its communication activities within its present community, while seeking to expand in the coming years. It is also available in Portuguese."
-msgstr "Este documento resume como GBIF pode dar estrutura às suas actividades de comunicação dentro de sua comunidade presente, buscando expandir nos próximos anos. Ele também está disponível em inglês."
+msgstr "Este documento resume como GBIF pode dar estrutura às suas atividades de comunicação dentro de sua comunidade presente, buscando expandir nos próximos anos. Ele também está disponível em inglês."
 
 #. type: Plain text
 #: index.en.adoc:17
