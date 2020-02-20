@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-communications-strategy\n"
 "POT-Creation-Date: 2020-02-20 14:54+0000\n"
-"PO-Revision-Date: 2020-02-20 15:23\n"
+"PO-Revision-Date: 2020-02-20 16:09\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -94,7 +94,7 @@ msgstr "Citação sugerida"
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid "https://orcid.org/0000-0002-6590-599X[Kyle Copas] & https://orcid.org/0000-0002-5015-5807[Tim Hirsch] (2015) GBIF Communications Strategy. GBIF Secretariat: Copenhagen. https://doi.org/10.15468/doc-6yp9-9885."
-msgstr ""
+msgstr "https://orcid.org/0000-0002-6590-599X[Kyle Copas] & https://orcid.org/0000-0002-5015-5807[Tim Hirsch] (2015) Estratégia de Comunicações GBIF Secretariat: Copenhagen. https://doi.org/10.15468/doc-6yp9-9885."
 
 #. type: Title ===
 #: colophon.en.adoc:11
