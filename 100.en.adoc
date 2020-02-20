@@ -13,7 +13,7 @@ The body of individuals and institutions coalescing around this pledge, even if 
 This document summarizes how GBIF can give structure to its communication activities within its present community, while seeking to expand in the coming years. The strategy’s key components include:
 
 * GBIF’s value proposition
-*	An message-oriented use-case analysis and grouping of GBIF’s audiences
+*	A message-oriented use-case analysis and grouping of GBIF’s audiences
 *	Segmentation of audiences, along with messaging aligned with the needs and interests of these audiences
 *	A discussion of the channels available to reach these target segments
 
