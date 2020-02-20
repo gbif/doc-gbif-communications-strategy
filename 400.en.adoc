@@ -1,0 +1,219 @@
+== Audience Segmentation
+
+Each audience encompasses several constituent segments, whose related interests in GBIF vary in specific emphasis or detail. These segments provide the true locus for implementing the strategy, because they enable GBIF to prioritize specific groups and then act to engage them. Segmentation enables GBIF, for example, to acknowledge the inherent similarities between natural history collection curators and citizen scientists as ‘data holders’, while choosing to target outreach activities towards each segment at different times and to use different engagement techniques. 
+
+Effective engagement with each of these audiences will enhance GBIF’s ability to achieve its mission, and effective targeting of specific segments will expand knowledge and appreciation of GBIF across the several overlapping communities that make up the network, and who use and benefit from its activities.
+
+=== AUDIENCE 1. The GBIF network
+
+==== Constituent segments
+
+* Node managers, staff, and governance members
+* Heads of delegation and other Governing Board delegates
+*	Advisory committee members
+*	Secretariat staff and contractors
+*	Relevant staff in GBIF affiliate organizations and those with memoranda of cooperation with GBIF Secretariat
+
+==== Primary communication needs
+
+* Clear information on how to participate effectively in GBIF and obtain the benefits arising from participation
+*	Resources to help communicate onwards the means and benefits of participation to relevant stakeholders
+*	Efficient mechanisms for two-way communication to ensure rich sharing of information across the community and to external audiences 
+
+This audience may be described as GBIF ‘insiders’ or ‘family’: those who work (explicitly or implicitly) to implement GBIF’s mission, strategic plans and work programmes, either as signatories to the MoU, memoranda of cooperation or under contracts. It is a diverse group as reflected by the constituent segments, but each constituency shares some critical communication needs. 
+
+Broadly speaking, they all need to understand precisely why they are involved with GBIF, how they can participate most effectively and what the benefits they obtain (or can obtain) from such engagement. In addition, they need to be equipped with the relevant information resources to communicate onwards GBIF’s activities and value to their own wide ranging stakeholders. 
+
+To maintain and grow the GBIF network, communications must directly address and engage this critical audience, as a means of sustaining a shared sense of purpose for GBIF and gluing the community together. The GBIF network has a general need for information that clearly and accurately describes the enterprise across all levels and scales of its activities and organization, from formal characterizations of its structure and governance to the technical details of data standards and publication. 
+
+Communications within the GBIF network must flow in both directions: not only ensuring that each segment of this audience has timely access to relevant information, but also providing efficient mechanisms for disseminating network activities to wider external communities and audiences, with the Secretariat coordinating this bidirectional flow of communication. 
+
+The entire GBIF network performs the work of outreach to national or thematic stakeholders, so all members have an interest in reducing communication-related barriers to participation for the other audiences (data holders, biological knowledge experts, data users, decision makers and public stakeholders). Each segment of the GBIF network stands to benefit from the creation of an extended set of information products that systematically offers answers to questions such as: ‘Why are we in GBIF? How do I participate most effectively? How do I communicate the benefits of GBIF to those whose support is essential for the future of the network? How do we make GBIF better?’
+
+By providing GBIF network members with a clear framework, shared vocabulary and consistent materials that tell their collective story—why they are engaged in GBIF, how that engagement works, and what tools and techniques enable it— the combined efforts of the network will be better understood, recognized and valued. Meeting the communication needs of this audience is a critical foundation towards long-term sustainability for the GBIF collaborative enterprise and the ideals it encapsulates. 
+
+==== Key messages 
+
+GBIF is particularly valuable to network members because it:
+
+*	Enables them to use GBIF’s collaborative mechanisms to solve problems and generate positive impacts
+*	Offers common tools, practices and information resources to help meet national or organizational needs for mobilizing and managing biodiversity data, including through development of national or thematic web portals
+*	Enables the integration of data from national and regional sources with other relevant data published elsewhere
+*	Offers researchers within countries or organizations a cost-effective means of accessing all available data on the occurrence of species 
+*	Supports national commitments to conserve and sustain national biodiversity resources and to promote open access to scientific data
+*	Places the network’s activities within a meaningful global context
+
+=== AUDIENCE 2. Data holders
+
+==== Constituent segments 
+
+* Current GBIF data publishers
+*	Natural history collection curators, informaticians and scientists
+*	Field biologists
+*	Citizen scientists, voluntary recording networks and observation aggregating sites 
+*	Authors, editors and publishers of scientific research
+*	Libraries and other custodians of historic biodiversity-related literature and multimedia archives
+*	Generators of remotely-sensed data including camera traps, acoustic monitoring and satellite/aerial observations
+*	Organizers and practitioners of surveys and monitoring programmes carried out for public agencies, protected area management and non-governmental organizations.
+*	Corporate staff and consultants and regulatory authorities holding primary biodiversity data from environmental impact assessments
+*	Researchers conducting genetic sequencing, barcoding and metagenomic sampling
+*	Indigenous and local communities
+
+==== Primary communication needs 
+
+*	Information on the importance and benefits of sharing and publishing data in standard formats that make them widely discoverable and re-usable
+*	Clear guidance on how to publish data 
+*	Onward communication tools to make the case for investment in digitization and publication of biodiversity data 
+
+This audience represents the owners and custodians of the biodiversity data currently or potentially documented through the GBIF network. Much of the work to date across the GBIF community has focused on mobilizing these data, and much more remains to be done. To advance GBIF’s mission, a number of critical communication needs must be met for this audience.
+
+First, the importance of and benefits from sharing biodiversity data in suitable formats and under clear conditions of use must be constantly re-iterated and expressed in compelling terms.  This is true not just for potential new data publishers, but for existing publishers who need to be convinced they should continue to make their data freely and openly accessible through GBIF.
+
+Second, data holders need guidance on how to mobilize and publish their data using common standards to make them discoverable and available for re-use in research and decision-making. Data holders are much more likely to overcome the social and cultural barriers to data sharing if they have clear recommendations and support for the technical steps needed to publish their data.
+
+Finally, data holders need secondary communication tools that enable them to make the case for investment in and commitment to mobilizing data, both within their own institutions and to potential funders, These resources must demonstrate the value of large-scale digitization of natural history collections, including mechanisms to report the uses made of individual datasets and records based on download requests and citations. 
+
+To reach the whole of this audience, communication tools need to be suitable for a wide range of different groups, including people still unfamiliar with the arguments for and techniques of biodiversity data publication. These may include local authorities, indigenous and local communities, and corporate holders of biodiversity data.
+
+For this audience too, two-way communication is important. Through its global communication channels, GBIF can and already does publicize the efforts made by individual publishers to share their datasets for the public good; this can help to bring recognition for those efforts and even encourage competition among institutions to establish a good reputation for data sharing.
+
+==== Key messages 
+
+GBIF is particularly valuable to data holders because it:
+
+* Enables efficient means to mobilize, manage and publish digital biodiversity data
+*	Helps provide institutional visibility and recognition for sharing biodiversity data in formats suitable for discovery and re-use
+*	Provides free, open-access tools and guidance for publishing digital datasets
+*	Promotes practices that ensure data persistence and data provenance
+*	Helps comply with open data regulations and requirements
+
+=== AUDIENCE 3. Biological knowledge experts
+
+==== Constituent segments
+
+* Zoologists, botanists, mycologists and other species specialists
+* Taxonomists
+* Ecologists
+* Expert networks 
+* Nomenclatural associations
+
+==== Primary communication needs 
+
+* Familiarity with GBIF’s current activities, capabilities, limitations and potential as a global virtual natural history collection
+* Guidance about how best to engage with the GBIF network and its data holders to steadily and consistently improve the quality of open access biodiversity information
+* Assurance of the value of such engagement in terms of advancing their own professional interests, the biological sciences and biodiversity conservation
+
+This audience represents a core community of individual scientists and experts. Their confidence in the usefulness of data mobilized through GBIF depends crucially on constant improvement in data quality, and this requires expertise that can only realistically come from voluntary curation from existing knowledge networks. Some of the strongest criticisms of GBIF have come within this group, as these experts are acutely aware of shortcomings in data quality that have arisen from the comparatively open system of publishing data through GBIF. Effective engagement with their ongoing work is critical for expanding and refining the pool of high-quality globally consistent biodiversity data for all other users. 
+
+Among the key communication challenges related to this audience is to ensure that their view of GBIF is based on accurate, up-to-date information about the network and the data it serves, rather than outdated impressions arising from earlier experiences and preconceptions. These experts need to believe that they themselves have an interest in contributing their expertise to assist in curating and improving the data published through GBIF. A major communication task in relation to this audience is to turn critics into collaborators. Biodiversity knowledge experts require persuasion that GBIF offers a robust research infrastructure—a ‘virtual natural history collection’ that enables curation of biodiversity knowledge and provides scientific evidence that supports both research and policy. 
+
+This group possesses knowledge for identifying both the gaps in the data currently accessible through GBIF and the shortcomings of the data already available. Targeted engagement can help tap that knowledge to develop priorities for data mobilization and to improve the accuracy and fitness for use of data already served by GBIF’s publishers. Succeeding with this strategy will eliminate the false distinction between ‘GBIF data’ and ‘expert knowledge’: these sources of information can and should be viewed as integrated and mutually reinforcing.
+
+==== Key messages 
+
+GBIF is particularly valuable to biodiversity knowledge experts because it:
+
+* Provides a platform for collaborative collection management and taxonomy that helps establish a ‘virtual natural history collection’ for the planet
+* Pools the expertise of biodiversity specialists in order to improve the quality of freely available digital data, to the benefit of all
+* Provides the means for long-term persistence of biodiversity collections data as insurance against potential loss of original data sources
+* Enables discovery of millions of specimens and observation records, increasingly accompanied by images or audio recordings, with links enabling further study
+* Complements the work of expert groups by integrating evidence that may inform judgments on species ranges and/or conservation priorities, while providing the means for publication and curation of occurrence data arising from expert assessments.
+
+=== AUDIENCE 4. Data users
+
+==== Constituent segments
+
+*	Biologists, including zoologists, botanists and other specialists
+*	Ecologists, including macroecologists and biogeographers 
+*	Species distribution modellers (includes analysts of climate change impacts, invasive species risk, human disease vectors)
+*	Conservation practitioners, including protected area planners and natural resource managers
+*	Environmental impact analysts and strategic spatial planning authorities
+*	Genetic resources experts (for crop diversity, medicinal compounds etc.)
+*	Ecosystem assessment community
+
+==== Primary communication needs
+
+*	Promoting wider knowledge of GBIF’s ability to provide significant volumes of data fit for many of the uses these groups require
+*	Fostering appreciation of the value and efficiency of having data from many different sources available from a single point of access 
+*	Information resources on how to discover and use data through GBIF to best advantage, including recommendations on data filtering and cleaning
+*	Communicating the importance of good citation practices and providing the means to implement them simply  
+
+Users of the data available through GBIF encompass a wide range of specialists interested in the recorded distribution of species over space and time for a variety of reasons. Their interests may be to advance scientific understanding of evolutionary processes, trait development and ecological patterns over millions of years; they may involve modelling of species range shifts and future risks of pest and disease outbreaks based on climate change projections; they may also inform current decisions on the design of parks and the sensitive siting of industrial or residential developments. An emerging group of users are the practitioners of ecosystem assessments that evaluate the many provisioning, regulating, cultural and other support services provided by biodiversity to human societies and advise on the consequences of different policy scenarios.
+
+Despite the diversity of these users, the disciplines and the sectors from which they emerge, they share a number of communication needs. Broadly speaking, their interest is in the availability of sufficient volumes of biodiversity data of sufficient quality and coverage to address their research or policy questions. This audience must first be aware of the potential for GBIF to provide for those needs, and this requires GBIF to communicate its services effectively in the information channels used by these groups. They must have access to appropriate information and guidance to enable them to use GBIF’s data resources to best effect.
+
+Once such users succeed in making effective use of GBIF-mediated data, they can then become important communicators on GBIF’s behalf. They value the efficiency of a one-stop shop for biodiversity data, and they can argue persuasively that investment in the GBIF infrastructure creates cost savings by avoiding the need for time-consuming searches through multiple data sources. Two-way communication and engagement with such users has proven to be an effective communication tool by the Secretariat and others in the community to demonstrate GBIF’s value. 
+
+A final important communication requirement for data users is to convey the importance of proper citation of original data sources in research or policy publications. While the primary interest of this audience tends to be accessing useful, reliable data through GBIF rather than in its source publisher, communications should emphasize that the data remain available only if data holders have incentives to share them—and proper attribution through citation is a critical part of that. Especially with the development of Digital Object Identifiers (DOIs) for datasets and downloads, GBIF should strongly promote best practices for data users to credit publishers and cite data accurately. 
+
+==== Key messages 
+
+GBIF is particularly valuable to data users because it:
+
+*	Provides a one-stop shop for large volumes of relevant, well-organized data on the occurrence of species over space and time
+*	Reduces costs of research by preventing the need to discover and obtain data from multiple sources
+*	Enables modelling of species distributions to inform a wide range of research and policy goals
+*	Provides a data layer that can be combined and integrated with other geospatial layers to create compelling visualizations for many applications
+*	Integrates evidence of species occurrence that can supplement other sources to create inventories and checklists for any geographical area, including changes over time
+
+=== AUDIENCE 5. Decision makers
+
+==== Constituent segments
+
+*	National government ministry and agency officials
+*	Research funding agencies
+*	Intergovernmental convention officials and national delegates
+*	Global foundations
+
+==== Primary communication needs 
+
+*	Convincing leaders that GBIF’s mission coincides with high-priority policy objectives and global commitments
+*	Demonstrating that investment in GBIF (globally and in-country) represents a cost-effective means of supporting those objectives and commitments
+*	Persuasion that GBIF is not in competition with other biodiversity-related initiatives but rather supports and complements them.
+
+GBIF’s future depends in part on remaining useful and relevant to a relatively small number of decision makers in key policymaking and funding positions. If these funders and executives are unconvinced of GBIF’s utility value, it will not survive even if all other aspects of its communication strategy are successful. The communication needs of this group are characterized by brevity and clarity; messages must be conveyed strategically, succinctly and persuasively, and often delivered opportunistically and at short notice. Decision makers are the primary consumers of the ‘elevator pitch’—the 30-second explanation of GBIF’s value that can influence participation or withdrawal of support from governments and agencies. 
+
+Communications with this group should convince them to conclude that GBIF supports the objectives and obligations already on their list of priorities. Such priorities may include, for example, a country’s treaty obligations through the Convention on Biological Diversity (CBD) or national commitments to open access policies for data and science. They may also relate to objectives less directly connected to conservation or biological research per se, as with goals relating to human development, such as human health, food security and economic livelihoods.
+
+In addition to convincing this audience of GBIF’s relevance, communication with them must also articulate the cost-effectiveness of investing in both the global infrastructure and the activities of the national node to support the development and maintenance of data-driven evidence for their goals and objectives.
+
+Finally, engaging this audience needs to pre-empt questions about any perceived duplication between GBIF and other biodiversity-related information initiatives, stressing its complementarity with and, indeed, direct involvement in institutions such as the CBD, the Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES) and the Group on Earth Observations Biodiversity Observation Network (GEO BON). 
+
+==== Key messages 
+
+GBIF is particularly valuable to decision makers because it:
+
+* Supports the information requirements for meeting national and global commitments, including biodiversity-related conventions and sustainable development goals
+*	Leverages national, regional and global investment in scientific research by enabling cost-effective discovery and re-use of existing biodiversity data
+*	Complements other biodiversity-related initiatives by providing data foundations for a wide range of studies, projects and applications
+*	Helps to fulfill commitments to improve transparency and open access to scientific data 
+*	Supports applied research relevant to policy decisions across a range of issues of primary economic and social importance, including food security, agricultural livelihoods, disease risk and the impacts of climate change. 
+
+== AUDIENCE 6. Public stakeholders
+
+==== Constituent segments
+
+*	Early-career scientists
+*	Educators (professors and teachers)
+*	University students in biodiversity, environment and life sciences 
+*	School students (tertiary, secondary, primary)
+*	Wildlife enthusiasts
+*	Environmentally engaged individuals
+*	The wider software developer community
+
+The audiences listed in the earlier part of this strategy each have distinct communication requirements that are indispensible to the GBIF’s global mission. These audiences extend into other groups for whom communication from the GBIF Secretariat may be less essential, but who nevertheless merit attention in this strategy because of the indirect or long-term benefits of raising awareness of GBIF. The Participants in the GBIF network also often have an interest in directly engaging these groups in order to build and consolidate support for their national, regional or thematic activities.
+
+This broad audience of public stakeholders includes early-career scientists, educators and students (particularly in the life sciences), wildlife enthusiasts, and environmentally engaged citizens. These groups may have some interest in and awareness of GBIF.org as a freely available source of global data on biodiversity; however, their contact is more likely be with those sites aimed directly at lay audiences, some of which contribute data through GBIF or make use of GBIF as a data source. Portals developed by GBIF Participants also serve the function of informing local constituencies about the species that occur in their countries, regions and localities. 
+
+Engagement with these groups is probably most effective in the context of citizen science (see also Audience Group 2 – Data holders). Several GBIF nodes have initiated highly successful campaigns to engage non-professional participants to generate data, for example, through ’bioblitz’ events and crowd-sourced digitization and curation of specimen data. Communication in the context of such activities shows individuals that their enthusiasm for wildlife can produce valuable scientific evidence that benefits the whole community while offering recognition for individual observers or collectors. Such communications provide value by expanding constituencies of support for global and national activities through GBIF .
+
+A final set of stakeholders is the wider group of software developers that shows interest and appreciation of the open-access research infrastructure developed through GBIF to meet the challenges of biodiversity informatics. It is important to stay engaged with members of this specialist community, even if engaging them appears not to bring direct or immediate benefits to the GBIF mission. Their recognition of GBIF’s activities can help ensure that GBIF’s work is understood and appreciated as an important example of trends and developments across the wider technology and informatics sectors.
+
+==== Key messages 
+
+GBIF is particularly valuable to public stakeholders because it:
+
+*	Establishes a foundation for greater knowledge about biodiversity worldwide
+*	Offers opportunities to explore the global body of evidence about life on earth 
+*	Promotes a culture of transparency, open access and evidence-based decision-making with benefits to all
+*	Offers examples of innovative solutions for informatics and research infrastructure that are relevant and applicable to other communities and domains

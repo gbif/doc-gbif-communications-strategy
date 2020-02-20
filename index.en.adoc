@@ -17,25 +17,19 @@ This version incorporates changes recommended by members of the GBIF community.
 
 // For translations, the addendum for contributors to the translation is inserted here.
 
-include::01-background/index.en.adoc[]
+:sectnums!:
 
-include::02-gbif-value-proposition/index.en.adoc[]
+include::colophon.en.adoc[]
 
-include::03-gbif-audiences/index.en.adoc[]
+:sectnums:
 
-include::04-audience-segmentation/index.en.adoc[]
+include::100.en.adoc[]
 
-include::04-audience-segmentation/01-the-gbif-network/index.en.adoc[leveloffset=+1]
+include::200.en.adoc[]
 
-include::04-audience-segmentation/02-data-holders/index.en.adoc[leveloffset=+1]
+include::300.en.adoc[]
 
-include::04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc[leveloffset=+1]
-
-include::04-audience-segmentation/04-data-users/index.en.adoc[leveloffset=+1]
-
-include::04-audience-segmentation/05-decision-makers/index.en.adoc[leveloffset=+1]
-
-include::04-audience-segmentation/06-public-stakeholders/index.en.adoc[leveloffset=+1]
+include::400.en.adoc[]
 
 [appendix]
 == License and citation
