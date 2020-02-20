@@ -1,16 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-communications-strategy\n"
-"POT-Creation-Date: 2019-05-07 14:48+0000\n"
-"PO-Revision-Date: 2019-07-03 00:07\n"
-"Last-Translator: GBIF Open Source Projects (timrobertson100)\n"
+"POT-Creation-Date: 2020-02-20 13:36+0000\n"
+"PO-Revision-Date: 2020-02-20 13:38\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: crowdin.com\n"
 "X-Crowdin-Project: gbif-communications-strategy\n"
 "X-Crowdin-Language: pt-PT\n"
 "X-Crowdin-File: /1.0/translations/index.pot\n"
@@ -48,859 +47,927 @@ msgid "This version incorporates changes recommended by members of the GBIF comm
 msgstr "Esta versão da estratégia incorpora alterações recomendadas pelos membros da comunidade GBIF."
 
 #. type: Title ==
-#: index.en.adoc:41
+#: index.en.adoc:35
 #, no-wrap
 msgid "License and citation"
 msgstr "Licença e citação"
 
 #. type: Plain text
-#: index.en.adoc:44
+#: index.en.adoc:38
 msgid "(C) GBIF Secretariat 2015."
 msgstr "(C) Secretariado GBIF 2015."
 
 #. type: Plain text
-#: index.en.adoc:46
+#: index.en.adoc:40
 msgid "This work is licensed under a https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License]."
 msgstr "Este trabalho está licenciado com uma Licença https://creativecommons.org/licenses/by/4.0/[Creative Commons - Atribuição 4.0 Internacional]."
 
 #. type: Title ===
-#: index.en.adoc:47
+#: index.en.adoc:41
 #, no-wrap
 msgid "Citation"
 msgstr "Citação"
 
 #. type: Plain text
-#: index.en.adoc:49
+#: index.en.adoc:43
 msgid "GBIF Secretariat (2015) GBIF Communication Strategy. 10 pp. Copenhagen: GBIF Secretariat. Accessed at http://www.gbif.org/document/80926."
 msgstr "GBIF Secretaria (2015) Estratégia de Comunicação GBIF. 10 pp. Copenhaga: GBIF Secretaria. Acessado em http://www.gbif.org/document/80926."
 
+#. type: Target for macro image
+#: colophon.en.adoc:3
+#, no-wrap
+msgid "img/web/photo.jpg"
+msgstr ""
+
 #. type: Title ==
-#: 01-background/index.en.adoc:1
+#: colophon.en.adoc:6
+#, no-wrap
+msgid "Colophon"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:8
+#, no-wrap
+msgid "Suggested citation"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:10
+msgid "https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://orcid.org/0000-0002-5015-5807[Tim Hirsch] (2015) GBIF Communications Strategy. GBIF Secretariat: Copenhagen. https://doi.org/10.15468/doc-6yp9-9885."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:11
+#, no-wrap
+msgid "Licence"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:13
+msgid "The document _GBIF Communications Strategy_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:14
+#, no-wrap
+msgid "URI persistente"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:16
+msgid "https://doi.org/10.15468/doc-6yp9-9885"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:17
+#, no-wrap
+msgid "Document control"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:19
+msgid "Published 2015"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:20
+#, no-wrap
+msgid "Cover image"
+msgstr ""
+
+#.  Caption. Credit, source, licence.
+#. type: Plain text
+#: colophon.en.adoc:23
+msgid "Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
+msgstr ""
+
+#. type: Title ==
+#: 100.en.adoc:1
 #, no-wrap
 msgid "Background"
 msgstr "Antecedentes"
 
 #. type: Plain text
-#: 01-background/index.en.adoc:4
+#: 100.en.adoc:4
 msgid "Since its establishment in 2001, GBIF has established an effective infrastructure that delivers primary biodiversity data and multiplies the impact of hundreds of other organizations and initiatives. However, the influence and extent of GBIF’s global network remain relatively underappreciated."
 msgstr "Desde que foi criado em 2001, o GBIF estabeleceu uma infraestrutura eficaz que disponibilizadados primários de biodiversidade e multiplica o impacto de centenas de organizações e iniciativas. No entanto, a influência e a extensão da rede global do GBIF permanecem relativamente subvalorizadas."
 
 #. type: Plain text
-#: 01-background/index.en.adoc:6
+#: 100.en.adoc:6
 msgid "To capitalize on its successes to date, and to fulfil the needs of the biodiversity science and policy communities, the GBIF community must continuously refine and refocus its efforts to communicate the fundamental value of this unique and highly effective enterprise to each of the audiences it serves. This task is best conducted with clear articulation of those audiences, how and why they should support or participate in GBIF, and how best to deliver on the promise that inspired the establishment of GBIF."
 msgstr "Para capitalizar o seu sucesso até à data, e para atender às necessidades da comunidade científica e de criação de politicas para a biodiversidade, a comunidade GBIF deve aperfeiçoar e reorientar os seus esforços para comunicar o valor fundamental deste empreendimento único e altamente eficaz a cada um dos públicos a que serve. Esta tarefa é melhor realizada em articulação entre estas diferentes audiências, como e porquê devem apoiar ou participar no GBIF, e qual a melhor forma de cumprir a promessa que inspirou a criação do GBIF."
 
 #. type: Plain text
-#: 01-background/index.en.adoc:8
+#: 100.en.adoc:8
 msgid "The challenge of communicating clearly about GBIF begins even with the simple description of what it is and what it does. This is in part because GBIF is not a formal, treaty-based institution, but the product of a voluntary collaboration between Participant countries and organizations, with an international coordinating body (the Secretariat) funded jointly by those Participants. So how does one best describe GBIF?"
 msgstr "O desafio de comunicar claramente sobre o GBIF começa com a simples descrição do que é e o que faz. Isto deve-se em parte ao GBIF não ser uma instituição formal, baseada em tratados, mas o produto de uma colaboração voluntária entre países e organizações participantes, com um corpo de coordenação internacional (o Secretariado) financiado conjuntamente por esses participantes. Assim, como se descreve melhor o GBIF?"
 
 #. type: Plain text
-#: 01-background/index.en.adoc:10
+#: 100.en.adoc:10
 msgid "More than a formal structure or entity, GBIF is a pledge towards common actions and goals. A pledge to make biodiversity data freely and openly available. A pledge to enable their constructive use and application across relevant research and policy realms. A pledge to continuously improve and increase these data over time. And a pledge to be at the forefront of building a culture of open data and transparency."
 msgstr "Mais do que uma estrutura formal ou entidade, o GBIF é um acordo para ações e objetivos comuns. Um acordo de tornar os dados de biodiversidade livres e abertamente disponíveis. Um acordo de permitir a sua utilização construtiva e aplicação em todos os domínios de investigação e políticas relevantes. A promessa de melhorar continuamente e aumentar esses dados ao longo do tempo. E um acordo de estar na vanguarda da construção de uma cultura de dados abertos e transparência."
 
 #. type: Plain text
-#: 01-background/index.en.adoc:12
+#: 100.en.adoc:12
 msgid "The body of individuals and institutions coalescing around this pledge, even if it is not a legally defined institution, increasingly sees itself as a community with a shared purpose, vision and collective identity. Strong communication with relevant audiences lies at the heart of its future success."
 msgstr "O conjunto de indivíduos e instituições coalescentes em torno deste acordo, mesmo que não seja uma instituição legalmente definida, cada vez mais se vê como uma comunidade com um objetivo partilhado, visão e identidade coletiva. A forte comunicação com os públicos relevantes está no cerne do seu sucesso no futuro."
 
 #. type: Plain text
-#: 01-background/index.en.adoc:14
+#: 100.en.adoc:14
 msgid "This document summarizes how GBIF can give structure to its communication activities within its present community, while seeking to expand in the coming years. The strategy’s key components include:"
 msgstr "Este documento resume como o GBIF pode dar estrutura às suas atividades de comunicação dentro da sua comunidade, ao mesmo tempo que procura expandir-se nos próximos anos. Os principais componentes da estratégia incluem:"
 
 #. type: Title ==
-#: 01-background/index.en.adoc:16 02-gbif-value-proposition/index.en.adoc:1
+#: 100.en.adoc:16 200.en.adoc:1
 #, no-wrap
 msgid "GBIF’s value proposition"
 msgstr "Proposta de valor do GBIF"
 
 #. type: Plain text
-#: 01-background/index.en.adoc:17
+#: 100.en.adoc:17
 msgid "An message-oriented use-case analysis and grouping of GBIF’s audiences"
 msgstr "A análise de um caso de uso como veículo da mensagem para os vários grupos de audiências do GBIF"
 
 #. type: Plain text
-#: 01-background/index.en.adoc:18
+#: 100.en.adoc:18
 msgid "Segmentation of audiences, along with messaging aligned with the needs and interests of these audiences"
 msgstr "A segmentação de públicos, juntamente com mensagens alinhadas com as necessidades e interesses desses públicos"
 
 #. type: Plain text
-#: 01-background/index.en.adoc:19
+#: 100.en.adoc:19
 msgid "A discussion of the channels available to reach these target segments"
 msgstr "Uma discussão sobre os canais dispomiveis para chegar aos seus segmentos alvo"
 
 #. type: Plain text
-#: 01-background/index.en.adoc:21
+#: 100.en.adoc:21
 msgid "This is a communication strategy for the whole GBIF community. While each GBIF Participant will have specific communication needs, the analysis of audiences and messages outlined here is relevant both to global communication through the Secretariat, and to a large portion of national activities through nodes and participating institutions."
 msgstr "Esta é uma estratégia de comunicação para toda a comunidade GBIF. Enquanto cada participante GBIF terá necessidades específicas de comunicação, a análise de audiências e mensagens aqui descritas são relevantes tanto para a comunicação global através do Secretariado, bem como para uma grande parte das atividades nacionais."
 
 #. type: Plain text
-#: 01-background/index.en.adoc:22
+#: 100.en.adoc:22
 msgid "The strategy provides the means for the Secretariat, in collaboration with the GBIF community, to set priorities for developing new documentation and for initiating translations into key languages. This needs-based assessment and prioritization helps to ensure that GBIF’s communication with all audiences is consistently and effectively disseminated. It also provides a flexible, long-term framework for adjusting the strategy over time and improving its relevance to the communities it intends to cultivate and grow."
 msgstr "A estratégia fornece os meios para o Secretariado, em colaboração com a comunidade GBIF, definir prioridades para o desenvolvimento de nova documentação e iniciar as traduções para as línguas principais. Esta avaliação das necessidades e definição de prioridades ajudará a garantir que a comunicação do GBIF para todos os públicos é consistente e eficazmente disseminada. Também fornece uma estrutura flexível, de longo prazo para ajustar a estratégia ao longo do tempo e melhorar a sua relevância para as comunidades que pretende desenvolver e fazer crescer."
 
 #. type: Plain text
-#: 02-gbif-value-proposition/index.en.adoc:4
+#: 200.en.adoc:4
 msgid "While much of the work of this communication strategy revolves around the details of clarifying and targeting specific audiences, a strategy must flow from a clear, coherent understanding of GBIF’s fundamental value. At its broadest level, GBIF’s value proposition can be summarized as follows:"
 msgstr "Embora grande parte do trabalho desta estratégia de comunicação gire em torno de detalhes para esclarecer e orientar públicos específicos, uma estratégia deve fluir a partir de uma compreensão clara e coerente do valor fundamental do GBIF. A nível mais amplo, a proposta de valor do GBIF pode ser resumida da seguinte forma:"
 
 #. type: Plain text
-#: 02-gbif-value-proposition/index.en.adoc:6
+#: 200.en.adoc:6
 #, no-wrap
 msgid "*GBIF enables free, universal access to all available biodiversity data*\n"
 msgstr "*O GBIF permite o acesso, livre e universal, a todos os dados de biodiversidade disponíveis.*\n"
 
 #. type: Plain text
-#: 02-gbif-value-proposition/index.en.adoc:8
+#: 200.en.adoc:8
 #, no-wrap
 msgid "*_by_*\n"
 msgstr "*_através da_*\n"
 
 #. type: Plain text
-#: 02-gbif-value-proposition/index.en.adoc:10
+#: 200.en.adoc:10
 #, no-wrap
 msgid "*Building the human and technical networks needed to share, discover and re-use digital data cost-effectively*\n"
 msgstr "*Construção da rede humana e técnica necessárias para a partilha, descoberta e reutilização eficiente de dados digitais*\n"
 
 #. type: Plain text
-#: 02-gbif-value-proposition/index.en.adoc:12
+#: 200.en.adoc:12
 #, no-wrap
 msgid "*_in order to_*\n"
 msgstr "*_de modo a_*\n"
 
 #. type: Plain text
-#: 02-gbif-value-proposition/index.en.adoc:13
+#: 200.en.adoc:13
 #, no-wrap
 msgid "*Advance research not possible before, and promote evidence-based decisions affecting life on Earth and sustainable human development*\n"
 msgstr "*apoiar a investigação nunca antes possível, promover decisões baseadas em evidências que afetam a vida na Terra e a sustentabilidade do desenvolvimento humano*\n"
 
 #. type: Title ==
-#: 03-gbif-audiences/index.en.adoc:1
+#: 300.en.adoc:1
 #, no-wrap
 msgid "GBIF’s Audiences"
 msgstr "Audiências do GBIF"
 
 #. type: Plain text
-#: 03-gbif-audiences/index.en.adoc:4
+#: 300.en.adoc:4
 msgid "Previous assessments have reviewed the make-up of GBIF’s audiences with an emphasis on institutional affiliations—that is, whether an individual works for or represents a national government, a multilateral environmental agreement, a non-governmental or intergovernmental organization, or a research body; and in the case of GBIF Participants, whether individuals work as Heads of Delegation, node managers or in other roles."
 msgstr "As avaliações anteriores reviram a constituição das audiências do GBIF, com ênfase nas afiliações institucionais, isto é, se um indivíduo trabalha para ou representa um governo nacional, um acordo ambiental multilateral, uma organização não governamental ou intergovernamental, ou um organismo de investigação; e, no caso dos Participantes do GBIF, se os indivíduos trabalham como chefes de delegação, coordenadores do nó ou outras funções."
 
 #. type: Plain text
-#: 03-gbif-audiences/index.en.adoc:6
+#: 300.en.adoc:6
 msgid "While such information can be meaningful and relevant, the emphasis here is placed on the individuals and what they need from GBIF. More specifically, the strategy places its focus on how an individual would use or interact with GBIF. The audiences are selected based on the distinct communication needs they share, and the common messages and information resources required to meet them."
 msgstr "Enquanto que esta informação pode ser significativa e relevante, a ênfase aqui é colocada sobre os indivíduos e no que precisam do GBIF. Mais especificamente, a estratégia coloca o seu foco no modo como um indivíduo usa ou interage com o GBIF. Os públicos-alvo são selecionados com base nas necessidades distintas de comunicação que partilham, e as mensagens comuns de informação e recursos necessários para atingi-los."
 
 #. type: Plain text
-#: 03-gbif-audiences/index.en.adoc:8
+#: 300.en.adoc:8
 msgid "The strategy identifies distinct engagement needs across a set of six broadly defined audiences, and within those broad groups it distinguishes functionally coherent, actionable audience segments. It should be emphasized that these are non-exclusive groups: many individuals will fall into more than one category but may require separate sets of messages and information resources for multiple roles relevant to GBIF’s activities. The strategy defines GBIF’s main audiences as:"
 msgstr "A estratégia identifica os diferentes envolvimentos necessários através de seis conjuntos abrangentes de público alvo e dentro desses grandes grupos coerentes do ponto de vista funcional e acionáveis. Deve-se enfatizar que estes são grupos não-exclusivos: muitas pessoas vão estar inseridas em mais de uma categoria, mas podem existir conjuntos separados de mensagens e recursos de informação para várias funções relevantes para as atividades do GBIF. A estratégia define os principais públicos do GBIF como:"
 
 #. type: Plain text
-#: 03-gbif-audiences/index.en.adoc:10
+#: 300.en.adoc:10
 msgid "The GBIF network"
 msgstr "A rede GBIF"
 
 #. type: Plain text
-#: 03-gbif-audiences/index.en.adoc:11
+#: 300.en.adoc:11
 msgid "Data holders"
 msgstr "Detentores de dados"
 
 #. type: Plain text
-#: 03-gbif-audiences/index.en.adoc:12
+#: 300.en.adoc:12
 msgid "Biological knowledge experts"
 msgstr "Especialistas de conhecimento biológico"
 
 #. type: Plain text
-#: 03-gbif-audiences/index.en.adoc:13
+#: 300.en.adoc:13
 msgid "Data users"
 msgstr "Utilizadores de dados"
 
 #. type: Plain text
-#: 03-gbif-audiences/index.en.adoc:14
+#: 300.en.adoc:14
 msgid "Decision makers"
 msgstr "Tomadores de decisões"
 
 #. type: Plain text
-#: 03-gbif-audiences/index.en.adoc:15
+#: 300.en.adoc:15
 msgid "Public stakeholders"
 msgstr "Partes interessadas públicas"
 
 #. type: Plain text
-#: 03-gbif-audiences/index.en.adoc:16
+#: 300.en.adoc:16
 msgid "To maintain its current activities and to grow into emerging ones, GBIF must improve the effectiveness of its communications with each of these broad audiences."
 msgstr "Para manter as suas atividades atuais e para crescer nas emergentes, o GBIF deve melhorar a eficácia das suas comunicações com cada uma dessas grandes audiências."
 
 #. type: Title ==
-#: 04-audience-segmentation/index.en.adoc:1
+#: 400.en.adoc:1
 #, no-wrap
 msgid "Audience Segmentation"
 msgstr "Segmentação de Audiência"
 
 #. type: Plain text
-#: 04-audience-segmentation/index.en.adoc:4
+#: 400.en.adoc:4
 msgid "Each audience encompasses several constituent segments, whose related interests in GBIF vary in specific emphasis or detail. These segments provide the true locus for implementing the strategy, because they enable GBIF to prioritize specific groups and then act to engage them. Segmentation enables GBIF, for example, to acknowledge the inherent similarities between natural history collection curators and citizen scientists as ‘data holders’, while choosing to target outreach activities towards each segment at different times and to use different engagement techniques."
 msgstr "Cada público abrange diversos segmentos constituintes, cujos interesses no GBIF variam no ênfase ou detalhe específico. Estes segmentos fornecem o verdadeiro local para a implementação da estratégia, porque permitem ao GBIF dar prioridade a grupos específicos e agir para envolvê-los. A segmentação permite ao GBIF, por exemplo, reconhecer as semelhanças inerentes entre curadores de coleções de história natural e cidadãos cientistas “detentores de dados”, escolhendo para direcionar, atividades adicionais no sentido de cada segmento, em momentos diferentes usando diferentes técnicas de envolvimento."
 
 #. type: Plain text
-#: 04-audience-segmentation/index.en.adoc:5
+#: 400.en.adoc:6
 msgid "Effective engagement with each of these audiences will enhance GBIF’s ability to achieve its mission, and effective targeting of specific segments will expand knowledge and appreciation of GBIF across the several overlapping communities that make up the network, and who use and benefit from its activities."
 msgstr "Um compromisso eficaz com cada um destes públicos vai aumentar a capacidade do GBIF de cumprir a sua missão e dirigindo a alvos de segmentos de locais específicos irá expandir o conhecimento e apreciação do GBIF através das várias comunidades sobrepostas que compõem a rede, e que usam e beneficiam das suas atividades."
 
-#. type: Title ==
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:1
+#. type: Title ===
+#: 400.en.adoc:7
 #, no-wrap
 msgid "AUDIENCE 1. The GBIF network"
 msgstr "AUDIÊNCIA 1. A rede GBIF"
 
-#. type: Title ===
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:3 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:3 04-audience-segmentation/04-data-users/index.en.adoc:3 04-audience-segmentation/05-decision-makers/index.en.adoc:3 04-audience-segmentation/06-public-stakeholders/index.en.adoc:3
+#. type: Title ====
+#: 400.en.adoc:9 400.en.adoc:92 400.en.adoc:124 400.en.adoc:161 400.en.adoc:194
 #, no-wrap
 msgid "Constituent segments"
 msgstr "Segmentos constituintes"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:6
+#: 400.en.adoc:12
 msgid "Node managers, staff, and governance members"
 msgstr "Coordenadores dos Nós, colaboradores e membros de governo"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:7
+#: 400.en.adoc:13
 msgid "Heads of delegation and other Governing Board delegates"
 msgstr "Chefes de delegação e outros delegados da Assembleia Geral"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:8
+#: 400.en.adoc:14
 msgid "Advisory committee members"
 msgstr "Membros do comité consultivo"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:9
+#: 400.en.adoc:15
 msgid "Secretariat staff and contractors"
 msgstr "Colaboradores do Secretariado e contratados"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:10
+#: 400.en.adoc:16
 msgid "Relevant staff in GBIF affiliate organizations and those with memoranda of cooperation with GBIF Secretariat"
 msgstr "Colaboradores relevantes de organizações afiliadas com o GBIF e com aqueles com memorando de cooperação com o Secretariado do GBIF"
 
-#. type: Title ===
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:11 04-audience-segmentation/04-data-users/index.en.adoc:13
+#. type: Title ====
+#: 400.en.adoc:17 400.en.adoc:134
 #, no-wrap
 msgid "Primary communication needs"
 msgstr "Necessidades primárias de comunicação"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:14
+#: 400.en.adoc:20
 msgid "Clear information on how to participate effectively in GBIF and obtain the benefits arising from participation"
 msgstr "Informação clara de como participar efetivamente no GBIF e os benefícios que advêm dessa participação"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:15
+#: 400.en.adoc:21
 msgid "Resources to help communicate onwards the means and benefits of participation to relevant stakeholders"
 msgstr "Recursos que ajudem na comunicação sobre os significados e benefícios de participar para as partes interessadas"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:16
+#: 400.en.adoc:22
 msgid "Efficient mechanisms for two-way communication to ensure rich sharing of information across the community and to external audiences"
 msgstr "Mecanismos eficientes para uma comunicação bidirecional garantindo uma partilha rica de informação através da comunidade e para audiências externas"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:18
+#: 400.en.adoc:24
 msgid "This audience may be described as GBIF ‘insiders’ or ‘family’: those who work (explicitly or implicitly) to implement GBIF’s mission, strategic plans and work programmes, either as signatories to the MoU, memoranda of cooperation or under contracts. It is a diverse group as reflected by the constituent segments, but each constituency shares some critical communication needs."
 msgstr "Esta audiência pode ser descrita como “a família do GBIF”: trabalham explicitamente para implementar a missão, planos estratégicos e programas de trabalho do GBIF, tal como a assinatura do MoU, memorando de cooperação ou sob contratos. É um grupo diverso representado pelos segmentos constituintes, mas todos partilham algumas necessidades de comunicação."
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:20
+#: 400.en.adoc:26
 msgid "Broadly speaking, they all need to understand precisely why they are involved with GBIF, how they can participate most effectively and what the benefits they obtain (or can obtain) from such engagement. In addition, they need to be equipped with the relevant information resources to communicate onwards GBIF’s activities and value to their own wide ranging stakeholders."
 msgstr "Em termos gerais, todos precisam entender exatamente porque estão envolvidos no GBIF; como podem participar de forma mais eficaz, e os benefícios que daí derivam (ou poderiam derivar), de tal participação. Além disso, precisam ser equipados com os recursos de informação para comunicar atividades e valores do GBIF para uma ampla gama de interessados."
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:22
+#: 400.en.adoc:28
 msgid "To maintain and grow the GBIF network, communications must directly address and engage this critical audience, as a means of sustaining a shared sense of purpose for GBIF and gluing the community together. The GBIF network has a general need for information that clearly and accurately describes the enterprise across all levels and scales of its activities and organization, from formal characterizations of its structure and governance to the technical details of data standards and publication."
 msgstr "Para manter e crescer a rede GBIF, as comunicações devem de ser dirigidas e envolver diretamente essas audiências fundamentais, de modo a manter um sentido comum do propósito para o GBIF e unir a comunidade. A rede GBIF tem uma necessidade geral por informação que de um modo claro e preciso descreva o GBIF a todos os níveis da sua atividade e organização, desde caracterizações formais da sua estrutura e governança até aos detalhes técnicos de padrões e publicação de dados."
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:24
+#: 400.en.adoc:30
 msgid "Communications within the GBIF network must flow in both directions: not only ensuring that each segment of this audience has timely access to relevant information, but also providing efficient mechanisms for disseminating network activities to wider external communities and audiences, with the Secretariat coordinating this bidirectional flow of communication."
 msgstr "As comunicações através da rede GBIF devem ser em ambos os sentidos: não só garantir que cada segmento desta audiência tenha acesso atempado a informação relevante, mas também a mecanismos eficientes para disseminar pela rede, atividades para a comunidade em geral e público externo, numa comunicação bidirecional coordenada com o Secretariado."
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:26
+#: 400.en.adoc:32
 msgid "The entire GBIF network performs the work of outreach to national or thematic stakeholders, so all members have an interest in reducing communication-related barriers to participation for the other audiences (data holders, biological knowledge experts, data users, decision makers and public stakeholders). Each segment of the GBIF network stands to benefit from the creation of an extended set of information products that systematically offers answers to questions such as: ‘Why are we in GBIF? How do I participate most effectively? How do I communicate the benefits of GBIF to those whose support is essential for the future of the network? How do we make GBIF better?’"
 msgstr "Toda a rede GBIF realiza o trabalho de divulgação junto das partes interessadas nacionais ou temáticas, de modo que todos os membros têm interesse em reduzir os obstáculos ligados à comunicação e participação de outros públicos-alvo (detentores de dados, especialistas em conhecimento da biodiversidade, utilizadores2 de dados de ocorrência de espécies, financiadores e partes interessadas). Cada segmento da rede GBIF pode beneficiar da criação de um conjunto alargado de produtos de informação que oferece sistematicamente respostas a perguntas como: \"_Porque estamos no GBIF? Como faço para participar melhor? Como faço para comunicar os benefícios do GBIF a pessoas cujo apoio é essencial para o futuro da rede? Como podemos fazer um GBIF melhor?_”"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:28
+#: 400.en.adoc:34
 msgid "By providing GBIF network members with a clear framework, shared vocabulary and consistent materials that tell their collective story—why they are engaged in GBIF, how that engagement works, and what tools and techniques enable it— the combined efforts of the network will be better understood, recognized and valued. Meeting the communication needs of this audience is a critical foundation towards long-term sustainability for the GBIF collaborative enterprise and the ideals it encapsulates."
 msgstr "Ao fornecer aos membros da rede GBIF uma estrutura clara, vocabulário partilhado e materiais que contam a história coletiva - o porquê de estarem envolvidos no GBIF, como funciona esse envolvimento, e quais as ferramentas e técnicas que o permitem - os esforços combinados da rede serão melhor compreendidos, reconhecidos e valorizados. Satisfazer as necessidades de comunicação desta audiência é um primeiro passo crítico para a sustentabilidade colaborativa de longo prazo para o desiderato colaborativo do GBIF e os ideais que engloba."
 
-#. type: Title ===
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:29 04-audience-segmentation/02-data-holders/index.en.adoc:35 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:23 04-audience-segmentation/04-data-users/index.en.adoc:28 04-audience-segmentation/05-decision-makers/index.en.adoc:24 04-audience-segmentation/06-public-stakeholders/index.en.adoc:21
+#. type: Title ====
+#: 400.en.adoc:35 400.en.adoc:80 400.en.adoc:112 400.en.adoc:149 400.en.adoc:182 400.en.adoc:212
 #, no-wrap
 msgid "Key messages "
 msgstr "Mensagens chave "
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:32
+#: 400.en.adoc:38
 msgid "GBIF is particularly valuable to network members because it:"
 msgstr "GBIF é particularmente valioso para os membros da rede porque:"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:34
+#: 400.en.adoc:40
 msgid "Enables them to use GBIF’s collaborative mechanisms to solve problems and generate positive impacts"
 msgstr "Permite-lhe usar os mecanismos de colaboração do GBIF para resolver problemas e gerar impacto positivo"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:35
+#: 400.en.adoc:41
 msgid "Offers common tools, practices and information resources to help meet national or organizational needs for mobilizing and managing biodiversity data, including through development of national or thematic web portals"
 msgstr "Oferece ferramentas, práticas e recursos de informação comuns para ajudar a atender as necessidades nacionais ou organizacionais para a mobilização e gestão de dados de biodiversidade, nomeadamente através do desenvolvimento de portais nacionais ou temáticos na web"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:36
+#: 400.en.adoc:42
 msgid "Enables the integration of data from national and regional sources with other relevant data published elsewhere"
 msgstr "Permite a integração de dados de fontes nacionais e regionais com dados relevantes publicados a partir de outros países"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:37
+#: 400.en.adoc:43
 msgid "Offers researchers within countries or organizations a cost-effective means of accessing all available data on the occurrence of species"
 msgstr "Oferece aos investigadores de países ou organizações um meio rentável de aceder a todos os dados disponíveis sobre a ocorrência de espécies"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:38
+#: 400.en.adoc:44
 msgid "Supports national commitments to conserve and sustain national biodiversity resources and to promote open access to scientific data"
 msgstr "Suporta os compromissos nacionais para a conservação e manutenção dos recursos nacionais de biodiversidade e promove o acesso aberto aos dados científicos"
 
 #. type: Plain text
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:38
+#: 400.en.adoc:45
 msgid "Places the network’s activities within a meaningful global context"
 msgstr "Coloca as atividades da rede num contexto global"
 
-#. type: Title ==
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:1
+#. type: Title ===
+#: 400.en.adoc:46
 #, no-wrap
 msgid "AUDIENCE 2. Data holders"
 msgstr "AUDIÊNCIA 2. Detentores de dados"
 
-#. type: Title ===
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:3
+#. type: Title ====
+#: 400.en.adoc:48
 #, no-wrap
 msgid "Constituent segments "
 msgstr "Constituição dos segmentos "
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:6
+#: 400.en.adoc:51
 msgid "Current GBIF data publishers"
 msgstr "Publicadores atuais de dados do GBIF"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:7
+#: 400.en.adoc:52
 msgid "Natural history collection curators, informaticians and scientists"
 msgstr "Curadores de coleções de história natural, informáticos e cientistas"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:8
+#: 400.en.adoc:53
 msgid "Field biologists"
 msgstr "Biólogos de campo"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:9
+#: 400.en.adoc:54
 msgid "Citizen scientists, voluntary recording networks and observation aggregating sites"
 msgstr "_Sítios_ web de agregação de cidadãos cientistas, redes voluntárias de registo e observação de biodiversidade"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:10
+#: 400.en.adoc:55
 msgid "Authors, editors and publishers of scientific research"
 msgstr "Autores, editores e publicadores de investigação científica"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:11
+#: 400.en.adoc:56
 msgid "Libraries and other custodians of historic biodiversity-related literature and multimedia archives"
 msgstr "As bibliotecas e os outros guardiões de literatura relacionada com a biodiversidade histórica e arquivos multimédia"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:12
+#: 400.en.adoc:57
 msgid "Generators of remotely-sensed data including camera traps, acoustic monitoring and satellite/aerial observations"
 msgstr "Geradores de dados adquiridos remotamente, incluindo armadilhas fotográficas, monitorização acústica e observação aérea/satélite"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:13
+#: 400.en.adoc:58
 msgid "Organizers and practitioners of surveys and monitoring programmes carried out for public agencies, protected area management and non-governmental organizations."
 msgstr "Os organizadores e profissionais de inventários e programas de monitorização realizados por órgãos públicos, gestão de áreas protegidas e de organizações não-governamentais."
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:14
+#: 400.en.adoc:59
 msgid "Corporate staff and consultants and regulatory authorities holding primary biodiversity data from environmental impact assessments"
 msgstr "Equipa corporativa, consultores e autoridades reguladoras que obtenham dados primários de biodiversidade a partir de avaliações de impacto ambiental"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:15
+#: 400.en.adoc:60
 msgid "Researchers conducting genetic sequencing, barcoding and metagenomic sampling"
 msgstr "Os investigadores que conduziram a sequenciação genética, barcoding e amostragem metagenómicas"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:16
+#: 400.en.adoc:61
 msgid "Indigenous and local communities"
 msgstr "As comunidades indígenas e locais"
 
-#. type: Title ===
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:17 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:11 04-audience-segmentation/05-decision-makers/index.en.adoc:10
+#. type: Title ====
+#: 400.en.adoc:62 400.en.adoc:100 400.en.adoc:168
 #, no-wrap
 msgid "Primary communication needs "
 msgstr "Necessidades primárias de comunicação "
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:20
+#: 400.en.adoc:65
 msgid "Information on the importance and benefits of sharing and publishing data in standard formats that make them widely discoverable and re-usable"
 msgstr "Informações sobre a importância e os benefícios da partilha e publicação de dados em formatos padrão que os tornam amplamente detetáveis e reutilizáveis"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:21
+#: 400.en.adoc:66
 msgid "Clear guidance on how to publish data"
 msgstr "Orientação clara sobre como publicar dados"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:22
+#: 400.en.adoc:67
 msgid "Onward communication tools to make the case for investment in digitization and publication of biodiversity data"
 msgstr "Investimento em ferramentas de comunicação para justificar a necessidade de investimento na digitalização e publicação de dados sobre biodiversidade"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:24
+#: 400.en.adoc:69
 msgid "This audience represents the owners and custodians of the biodiversity data currently or potentially documented through the GBIF network. Much of the work to date across the GBIF community has focused on mobilizing these data, and much more remains to be done. To advance GBIF’s mission, a number of critical communication needs must be met for this audience."
 msgstr "Este público representa os proprietários e curadores dos dados de biodiversidade atualmenteou potencialmente documentados através da rede GBIF. Grande parte do trabalho até à data em toda a comunidade GBIF centrou-se na mobilização destes dados. Para avançar na missão do GBIF, existe uma série de necessidades de comunicação críticas que devem ser tidas em conta para este público."
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:26
+#: 400.en.adoc:71
 msgid "First, the importance of and benefits from sharing biodiversity data in suitable formats and under clear conditions of use must be constantly re-iterated and expressed in compelling terms.  This is true not just for potential new data publishers, but for existing publishers who need to be convinced they should continue to make their data freely and openly accessible through GBIF."
 msgstr "Em primeiro lugar, a importância e os benefícios da partilha de dados sobre a biodiversidade em formatos adequados e sob condições claras de uso deve ser constantemente reiterado e expressa em termos convincentes. Isto é verdade não apenas para os potenciais novos publicadores de dados, mas para os publicadores existentes que precisam de ser convencidos de que devem continuar a tornar os seus dados livres e abertamente acessíveis através do GBIF."
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:28
+#: 400.en.adoc:73
 msgid "Second, data holders need guidance on how to mobilize and publish their data using common standards to make them discoverable and available for re-use in research and decision-making. Data holders are much more likely to overcome the social and cultural barriers to data sharing if they have clear recommendations and support for the technical steps needed to publish their data."
 msgstr "Em segundo lugar, os detentores de dados precisam de orientações sobre como mobilizar e publicar dados usando padrões comuns que os tornem detetáveis e disponíveis para reutilização em investigação e tomada de decisão. É muito mais provável que os detentores de dados ultrapassem as barreiras sociais e culturais à partilha de dados se tiverem recomendações claras e suporte para as etapas técnicas necessárias para publicar os seus dados."
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:30
+#: 400.en.adoc:75
 msgid "Finally, data holders need secondary communication tools that enable them to make the case for investment in and commitment to mobilizing data, both within their own institutions and to potential funders, These resources must demonstrate the value of large-scale digitization of natural history collections, including mechanisms to report the uses made of individual datasets and records based on download requests and citations."
 msgstr "Finalmente, os detentores de dados precisam de ferramentas de comunicação secundárias que lhes permitam justificar o investimento e compromisso de mobilização de dados, tanto nas suas próprias instituições como junto de potenciais financiadores. Estes recursos, devem demonstrar o seu valor na digitalização em grande escala das coleções de história natural, incluindo mecanismos para relatar as utilizações feitas de conjuntos de dados individuais e registos3 com base em pedidos de transferência e citações."
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:32
+#: 400.en.adoc:77
 msgid "To reach the whole of this audience, communication tools need to be suitable for a wide range of different groups, including people still unfamiliar with the arguments for and techniques of biodiversity data publication. These may include local authorities, indigenous and local communities, and corporate holders of biodiversity data."
 msgstr "Para chegar a todas as audiências as ferramentas de comunicação precisam de ser adequadas para envolver uma ampla gama de diferentes grupos, incluindo aqueles que ainda não estão familiarizados com os argumentos a favor e técnicas de publicação de dados de biodiversidade. Estes podem incluir autoridades locais, comunidades indígenas locais e detentores corporativos de dados de biodiversidade."
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:34
+#: 400.en.adoc:79
 msgid "For this audience too, two-way communication is important. Through its global communication channels, GBIF can and already does publicize the efforts made by individual publishers to share their datasets for the public good; this can help to bring recognition for those efforts and even encourage competition among institutions to establish a good reputation for data sharing."
 msgstr "Para este público, a comunicação bidirecional também é importante. Através dos seus canais de comunicação globais, o GBIF pode e já divulga os esforços feitos pelos editores individuais de partilhar os seus conjuntos de dados para o beneficio do público; isto pode ajudar a trazer o reconhecimento para esses esforços e até mesmo incentivar a concorrência entre as instituições para estabelecer uma boa reputação para a partilha de dados."
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:38
+#: 400.en.adoc:83
 msgid "GBIF is particularly valuable to data holders because it:"
 msgstr "GBIF é particularmente valioso para os detentores de dados porque:"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:40
+#: 400.en.adoc:85
 msgid "Enables efficient means to mobilize, manage and publish digital biodiversity data"
 msgstr "Permite meios eficientes para mobilizar, gerir e publicar dados de biodiversidade digitais"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:41
+#: 400.en.adoc:86
 msgid "Helps provide institutional visibility and recognition for sharing biodiversity data in formats suitable for discovery and re-use"
 msgstr "Ajuda a trazer visibilidade e reconhecimento para indivíduos e instituições que partilhem dados de biodiversidade em formatos que sejam adequados para a descoberta e reutilização"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:42
+#: 400.en.adoc:87
 msgid "Provides free, open-access tools and guidance for publishing digital datasets"
 msgstr "Fornece ferramentas e orientação sobre o acesso aberto e grátis para a publicação de conjuntos de dados digitais"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:43
+#: 400.en.adoc:88
 msgid "Promotes practices that ensure data persistence and data provenance"
 msgstr "Promove práticas que asseguram a persistência dos dados"
 
 #. type: Plain text
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:43
+#: 400.en.adoc:89
 msgid "Helps comply with open data regulations and requirements"
 msgstr "Ajuda a cumprir a regulamentação e requisitos de dados abertos"
 
-#. type: Title ==
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:1
+#. type: Title ===
+#: 400.en.adoc:90
 #, no-wrap
 msgid "AUDIENCE 3. Biological knowledge experts"
 msgstr "AUDIÊNCIA 3. Especialistas em conhecimento biológico"
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:6
+#: 400.en.adoc:95
 msgid "Zoologists, botanists, mycologists and other species specialists"
 msgstr "Zoólogos, botânicos, micólogos e especialistas de outras espécies"
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:7
+#: 400.en.adoc:96
 msgid "Taxonomists"
 msgstr "Taxonomistas"
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:8
+#: 400.en.adoc:97
 msgid "Ecologists"
 msgstr "Ecologistas"
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:9
+#: 400.en.adoc:98
 msgid "Expert networks"
 msgstr "Redes de especialistas"
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:10
+#: 400.en.adoc:99
 msgid "Nomenclatural associations"
 msgstr "Associações de nomenclatura"
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:14
+#: 400.en.adoc:103
 msgid "Familiarity with GBIF’s current activities, capabilities, limitations and potential as a global virtual natural history collection"
 msgstr "Familiaridade com as atividades atuais, capacidades e potencial do GBIF como uma coleção de historia natural global virtual"
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:15
+#: 400.en.adoc:104
 msgid "Guidance about how best to engage with the GBIF network and its data holders to steadily and consistently improve the quality of open access biodiversity information"
 msgstr "Orientação em como envolver-se na rede GBIF e como os detentores de dados podem melhorar de forma constante e consistente a qualidade da informação da biodiversidade de acesso aberto"
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:16
+#: 400.en.adoc:105
 msgid "Assurance of the value of such engagement in terms of advancing their own professional interests, the biological sciences and biodiversity conservation"
 msgstr "Garantir o valor deste tipo de envolvimento em termos de fazer avançar os seus interesses profissionais, as ciências biológicas e a conservação da biodiversidade"
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:18
+#: 400.en.adoc:107
 msgid "This audience represents a core community of individual scientists and experts. Their confidence in the usefulness of data mobilized through GBIF depends crucially on constant improvement in data quality, and this requires expertise that can only realistically come from voluntary curation from existing knowledge networks. Some of the strongest criticisms of GBIF have come within this group, as these experts are acutely aware of shortcomings in data quality that have arisen from the comparatively open system of publishing data through GBIF. Effective engagement with their ongoing work is critical for expanding and refining the pool of high-quality globally consistent biodiversity data for all other users."
 msgstr "Este público representa uma comunidade de cientistas individuais e especialistas. A sua confiança na utilidade dos dados mobilizados através do GBIF depende fundamentalmente de uma melhoria constante na qualidade dos dados e isso requer conhecimento que só pode realisticamente vir da curadoria voluntária de redes de conhecimento existentes.  Algumas das críticas mais fortes ao GBIF vieram de dentro deste grupo, os especialistas estão mais conscientes das deficiências na qualidade dos dados que surgem a partir do sistema aberto de publicação de dados através do GBIF. O compromisso efetivo com o trabalho em curso é fundamental para a expansão e melhoria do grupo de alta qualidade dos dados de biodiversidade globalmente consistentes para todos os outros utilizadores."
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:20
+#: 400.en.adoc:109
 msgid "Among the key communication challenges related to this audience is to ensure that their view of GBIF is based on accurate, up-to-date information about the network and the data it serves, rather than outdated impressions arising from earlier experiences and preconceptions. These experts need to believe that they themselves have an interest in contributing their expertise to assist in curating and improving the data published through GBIF. A major communication task in relation to this audience is to turn critics into collaborators. Biodiversity knowledge experts require persuasion that GBIF offers a robust research infrastructure—a ‘virtual natural history collection’ that enables curation of biodiversity knowledge and provides scientific evidence that supports both research and policy."
 msgstr "Entre as necessidades chave de comunicação relacionadas com esta audiência, está o assegurar que a sua visão do GBIF é baseada na precisão de informações atualizadas acerca do estado atual da rede e de como os dados são apresentados, ao invés de impressões resultantes de experiências ou mal-entendidos desatualizados. Estes especialistas precisam de acreditar que têm interesse em contribuir com a sua experiência para ajudar na curadoria e melhorar os dados publicados através do GBIF. A grande tarefa de comunicação para esta audiência é tornar críticos em colaboradores.  Os especialistas em conhecimento biológicoprecisam de ser persuadidos de que o GBIF oferece uma infraestrutura de investigação robusta - uma \"coleção de história natural virtual\", permitindo curadoria do conhecimento da biodiversidade no espaço digital, apoiando assim as evidências que promovem a investigação e criação de políticas."
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:22
+#: 400.en.adoc:111
 msgid "This group possesses knowledge for identifying both the gaps in the data currently accessible through GBIF and the shortcomings of the data already available. Targeted engagement can help tap that knowledge to develop priorities for data mobilization and to improve the accuracy and fitness for use of data already served by GBIF’s publishers. Succeeding with this strategy will eliminate the false distinction between ‘GBIF data’ and ‘expert knowledge’: these sources of information can and should be viewed as integrated and mutually reinforcing."
 msgstr "Este grupo possui o conhecimento que pode identificar tanto lacunas nos dados atualmente acessíveis através do GBIF, bem como as limitações dos dados. O envolvimento dirigido pode ajudar a explorar esse conhecimento para desenvolver prioridades para a mobilização de dados e para melhorar a precisão e adequação de utilização dos dados já atendidas pelos publicadores do GBIF. Essa estratégia pretende eliminar falsas divisões entre “dados do GBIF \" e \"conhecimento especializado\": estas fontes de informação podem e devem ser integradas e reforçarem-se mutuamente."
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:26
+#: 400.en.adoc:115
 msgid "GBIF is particularly valuable to biodiversity knowledge experts because it:"
 msgstr "O GBIF é particularmente valioso para os especialistas em conheci mento biológico porque:"
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:28
+#: 400.en.adoc:117
 msgid "Provides a platform for collaborative collection management and taxonomy that helps establish a ‘virtual natural history collection’ for the planet"
 msgstr "Fornece uma plataforma colaborativa para a gestão de coleções e taxonomia que podem servir como uma \"coleção de história natural virtual' para o planeta"
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:29
+#: 400.en.adoc:118
 msgid "Pools the expertise of biodiversity specialists in order to improve the quality of freely available digital data, to the benefit of all"
 msgstr "Permite que especialistas em biodiversidade reúnam os seus conhecimentos, a fim de melhorar a qualidade dos dados digitais disponíveis livremente, para o benefício de todos"
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:30
+#: 400.en.adoc:119
 msgid "Provides the means for long-term persistence of biodiversity collections data as insurance against potential loss of original data sources"
 msgstr "Fornece os meios para a persistência a longo prazo de dados de coleções de biodiversidade como um seguro contra a perda potencial das fontes de dados originais"
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:31
+#: 400.en.adoc:120
 msgid "Enables discovery of millions of specimens and observation records, increasingly accompanied by images or audio recordings, with links enabling further study"
 msgstr "Permite a descoberta de milhões de espécimes e registos5 de observação, cada vez mais acompanhados por imagens ou gravações de áudio, com ligações que permitem um estudo mais aprofundado"
 
 #. type: Plain text
-#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:31
+#: 400.en.adoc:121
 msgid "Complements the work of expert groups by integrating evidence that may inform judgments on species ranges and/or conservation priorities, while providing the means for publication and curation of occurrence data arising from expert assessments."
 msgstr "Complementa o trabalho dos grupos de especialistas integrando evidências que podem informar julgamentos sobre determinadas espécies e/ou prioridades de conservação; enquanto fornece os meios para a publicação e curadoria de dados sobre a ocorrência, decorrentes de avaliações de especialistas."
 
-#. type: Title ==
-#: 04-audience-segmentation/04-data-users/index.en.adoc:1
+#. type: Title ===
+#: 400.en.adoc:122
 #, no-wrap
 msgid "AUDIENCE 4. Data users"
 msgstr "AUDIÊNCIA 4. Utilizadores de dados"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:6
+#: 400.en.adoc:127
 msgid "Biologists, including zoologists, botanists and other specialists"
 msgstr "Biólogos, incluindo zoólogos, botânicos e outros especialistas"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:7
+#: 400.en.adoc:128
 msgid "Ecologists, including macroecologists and biogeographers"
 msgstr "Ecólogos, incluindo macroecologos e biogeógrafos"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:8
+#: 400.en.adoc:129
 msgid "Species distribution modellers (includes analysts of climate change impacts, invasive species risk, human disease vectors)"
 msgstr "Modeladores de distribuição de espécies (inclui analistas dos impactos das alteraçõesclimáticas, o risco de espécies invasoras, vetores de doenças humanas)"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:9
+#: 400.en.adoc:130
 msgid "Conservation practitioners, including protected area planners and natural resource managers"
 msgstr "Praticantes de conservação, incluindo planeadores de áreas protegidas e gestores de recursos naturais"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:10
+#: 400.en.adoc:131
 msgid "Environmental impact analysts and strategic spatial planning authorities"
 msgstr "Analistas de impacto ambiental e autoridades estratégicas de ordenamento do território"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:11
+#: 400.en.adoc:132
 msgid "Genetic resources experts (for crop diversity, medicinal compounds etc.)"
 msgstr "Especialistas em recursos genéticos (para a diversidade de culturas, compostos medicinais etc.)"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:12
+#: 400.en.adoc:133
 msgid "Ecosystem assessment community"
 msgstr "Comunidade de avaliação de ecossistemas"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:16
+#: 400.en.adoc:137
 msgid "Promoting wider knowledge of GBIF’s ability to provide significant volumes of data fit for many of the uses these groups require"
 msgstr "Promover um conhecimento amplo da capacidade do GBIF para fornecer volumes significativos de dados ajustados aos muitos dos usos que esses grupos exigem"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:17
+#: 400.en.adoc:138
 msgid "Fostering appreciation of the value and efficiency of having data from many different sources available from a single point of access"
 msgstr "Promover a apreciação do valor e da eficiência de ter dados de muitas fontes diferentes disponíveis a partir de um único ponto de acesso"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:18
+#: 400.en.adoc:139
 msgid "Information resources on how to discover and use data through GBIF to best advantage, including recommendations on data filtering and cleaning"
 msgstr "Recursos de Informação sobre como descobrir e usar dados através do GBIF para ter melhor proveito, incluindo recomendações sobre a filtragem e limpeza de dados"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:19
+#: 400.en.adoc:140
 msgid "Communicating the importance of good citation practices and providing the means to implement them simply"
 msgstr "Comunicar a importância das boas práticas de citação e fornecer os meios para implementá-las de um modo simples"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:21
+#: 400.en.adoc:142
 msgid "Users of the data available through GBIF encompass a wide range of specialists interested in the recorded distribution of species over space and time for a variety of reasons. Their interests may be to advance scientific understanding of evolutionary processes, trait development and ecological patterns over millions of years; they may involve modelling of species range shifts and future risks of pest and disease outbreaks based on climate change projections; they may also inform current decisions on the design of parks and the sensitive siting of industrial or residential developments. An emerging group of users are the practitioners of ecosystem assessments that evaluate the many provisioning, regulating, cultural and other support services provided by biodiversity to human societies and advise on the consequences of different policy scenarios."
 msgstr "Os utilizadores dos dados disponíveis através do GBIF abrangem um vasto leque de especialistas interessados nas distribuições de espécies registadas no espaço e no tempo por várias razões. Os seus interesses podem ser aprofundar a compreensão científica dos processos evolutivos e o desenvolvimento de traços e padrões ecológicos ao longo de milhões de anos; podem envolver modelação e mudanças da distribuição da espécies e riscos futuros de surtos de pragas e doenças com base em projeções de mudanças climáticas; também podem informar as atuais decisões sobre a conceção de parques e a locais sensíveis para o desenvolvimento industrial ou residencial. Um grupo emergente de utilizadores são os praticantes de avaliação do ecossistema que avaliam os serviços prestados pela biodiversidade às sociedades humanas e aconselham sobre as consequências dos diferentes cenários políticos."
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:23
+#: 400.en.adoc:144
 msgid "Despite the diversity of these users, the disciplines and the sectors from which they emerge, they share a number of communication needs. Broadly speaking, their interest is in the availability of sufficient volumes of biodiversity data of sufficient quality and coverage to address their research or policy questions. This audience must first be aware of the potential for GBIF to provide for those needs, and this requires GBIF to communicate its services effectively in the information channels used by these groups. They must have access to appropriate information and guidance to enable them to use GBIF’s data resources to best effect."
 msgstr "Apesar da diversidade destes utilizadores, as disciplinas e os setores das quais emergem, partilham uma série de necessidades de comunicação. Em termos gerais, o seu interesse é na disponibilidade de volumes suficientes de dados de biodiversidade, de qualidade e cobertura suficiente para as suas investigações ou de questõesde preparação de políticas. Este público deve primeiro estar ciente do potencial do GBIF para suportar essas necessidades, e isso requer ao GBIF que comunique os seus serviços de forma eficaz nos canais de informação utilizados por esses grupos. Devem ter acesso à informação e orientação adequada para que possam usar os recursos de dados do GBIF da melhor forma."
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:25
+#: 400.en.adoc:146
 msgid "Once such users succeed in making effective use of GBIF-mediated data, they can then become important communicators on GBIF’s behalf. They value the efficiency of a one-stop shop for biodiversity data, and they can argue persuasively that investment in the GBIF infrastructure creates cost savings by avoiding the need for time-consuming searches through multiple data sources. Two-way communication and engagement with such users has proven to be an effective communication tool by the Secretariat and others in the community to demonstrate GBIF’s value."
 msgstr "Se estes utilizadores tiverem sucesso no uso eficaz do GBIF como fonte de dados, podem tornar-se comunicadores importantes em nome do GBIF. Estes valorizam a eficiência de um ponto único para os dados de biodiversidade, e podem argumentar de forma convincente que o investimento na infraestrutura do GBIF cria poupanças de custos, evitando a necessidade de pesquisas demoradas através de múltiplas fontes de dados. A comunicação bidirecional e o envolvimento destes utilizadores têm provado ser uma ferramenta de comunicação eficaz, pelo Secretariado e outros na comunidade, demonstrando o valor do GBIF."
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:27
+#: 400.en.adoc:148
 msgid "A final important communication requirement for data users is to convey the importance of proper citation of original data sources in research or policy publications. While the primary interest of this audience tends to be accessing useful, reliable data through GBIF rather than in its source publisher, communications should emphasize that the data remain available only if data holders have incentives to share them—and proper attribution through citation is a critical part of that. Especially with the development of Digital Object Identifiers (DOIs) for datasets and downloads, GBIF should strongly promote best practices for data users to credit publishers and cite data accurately."
 msgstr "Um requisito final importante de comunicação para utilizadores de dados é transmitir a importância da citação adequada das fontes originais dos dados nas publicações em investigação científica ou na criação de política. Enquanto o principal interesse deste público tende a ser a acessibilidade e a fiabilidade dos dados através do GBIF, em vez do seu publicador fonte, as comunicações devem enfatizar que estes dados só permanecerão disponíveis se os detentores de dados tiverem um incentivo para partilhá-los - e devido à apropriada atribuição da citação é uma parte crítica disso mesmo. Especialmente com o desenvolvimento de _Digital Object Identifiers_ (DOIs) para os conjuntos de dados e downloads, o GBIF deve promover fortemente as boas práticas para os utilizadores de dados, para dar crédito aos publicadores e citarem corretamente os dados."
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:31
+#: 400.en.adoc:152
 msgid "GBIF is particularly valuable to data users because it:"
 msgstr "O GBIF é particularmente valioso para os utilizadores de dados porque:"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:33
+#: 400.en.adoc:154
 msgid "Provides a one-stop shop for large volumes of relevant, well-organized data on the occurrence of species over space and time"
 msgstr "Fornece um local único para grandes volumes de dados relevantes e bem organizados sobre a ocorrência de espécies ao longo do tempo e espaço"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:34
+#: 400.en.adoc:155
 msgid "Reduces costs of research by preventing the need to discover and obtain data from multiple sources"
 msgstr "Reduz os custos da investigação científica prevenindo a necessidade de descobrir e obter dados de várias fontes"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:35
+#: 400.en.adoc:156
 msgid "Enables modelling of species distributions to inform a wide range of research and policy goals"
 msgstr "Permite a modelação da distribuição de espécies para abranger uma ampla gama de objetivos de investigação e políticas"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:36
+#: 400.en.adoc:157
 msgid "Provides a data layer that can be combined and integrated with other geospatial layers to create compelling visualizations for many applications"
 msgstr "Fornece camadas de dados que podem ser combinadas e integradas com outras camadas geo espaciais para criar visualizações convincentes para muitas aplicações"
 
 #. type: Plain text
-#: 04-audience-segmentation/04-data-users/index.en.adoc:36
+#: 400.en.adoc:158
 msgid "Integrates evidence of species occurrence that can supplement other sources to create inventories and checklists for any geographical area, including changes over time"
 msgstr "Integra evidências de ocorrência de espécies que podem complementar outras fontes para criar inventários e _checklists_ para qualquer área geográfica, incluindo alterações ao longo do tempo"
 
-#. type: Title ==
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:1
+#. type: Title ===
+#: 400.en.adoc:159
 #, no-wrap
 msgid "AUDIENCE 5. Decision makers"
 msgstr "AUDIÊNCIA 5. Tomadores de decisões"
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:6
+#: 400.en.adoc:164
 msgid "National government ministry and agency officials"
 msgstr "Funcionários dos ministérios do governo e das agências nacionais"
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:7
+#: 400.en.adoc:165
 msgid "Research funding agencies"
 msgstr "Agências de financiamento da investigação"
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:8
+#: 400.en.adoc:166
 msgid "Intergovernmental convention officials and national delegates"
 msgstr "Funcionários de convenções intergovernamentais e delegados nacionais"
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:9
+#: 400.en.adoc:167
 msgid "Global foundations"
 msgstr "Fundações globais"
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:13
+#: 400.en.adoc:171
 msgid "Convincing leaders that GBIF’s mission coincides with high-priority policy objectives and global commitments"
 msgstr "Convencer os líderes de que a missão do GBIF coincide com os objetivos da política de alta prioridade e compromissos globais"
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:14
+#: 400.en.adoc:172
 msgid "Demonstrating that investment in GBIF (globally and in-country) represents a cost-effective means of supporting those objectives and commitments"
 msgstr "Demonstrar que o investimento no GBIF (globalmente e dentro do país) representa um meio de apoio com custo eficaz no apoio aos objetivos e compromissos"
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:15
+#: 400.en.adoc:173
 msgid "Persuasion that GBIF is not in competition with other biodiversity-related initiatives but rather supports and complements them."
 msgstr "Persuadir de que o GBIF não está em competição com outras iniciativas relacionadas com a biodiversidade, mas sim apoia-as e complementa-as."
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:17
+#: 400.en.adoc:175
 msgid "GBIF’s future depends in part on remaining useful and relevant to a relatively small number of decision makers in key policymaking and funding positions. If these funders and executives are unconvinced of GBIF’s utility value, it will not survive even if all other aspects of its communication strategy are successful. The communication needs of this group are characterized by brevity and clarity; messages must be conveyed strategically, succinctly and persuasively, and often delivered opportunistically and at short notice. Decision makers are the primary consumers of the ‘elevator pitch’—the 30-second explanation of GBIF’s value that can influence participation or withdrawal of support from governments and agencies."
 msgstr "O futuro do GBIF depende em parte em ser útil e relevante para um número relativamente pequeno de decisores em posições-chave de formulação de políticas e financiamento. Se estes financiadores e tomadores de decisões executivas não estão convencidos do valor do GBIF, este não vai sobreviver mesmo se todos os outros aspetos da sua estratégia de comunicação sejam bem-sucedidos. As necessidades de comunicação deste público são por mensagens estrategicamente sucintas e persuasivas e disponibilizadas em noticias curtas.  Os tomadores de decisões os principais consumidores do \"_elevator pitch_\" – uma explicação de 30 segundos do valor do GBIF que poder influenciar a participação ou retirada de apoio dos governos e agências."
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:19
+#: 400.en.adoc:177
 msgid "Communications with this group should convince them to conclude that GBIF supports the objectives and obligations already on their list of priorities. Such priorities may include, for example, a country’s treaty obligations through the Convention on Biological Diversity (CBD) or national commitments to open access policies for data and science. They may also relate to objectives less directly connected to conservation or biological research per se, as with goals relating to human development, such as human health, food security and economic livelihoods."
 msgstr "As comunicações com este grupo devem leva-los a concluir que o GBIF apoia os objetivos e obrigações presentes na sua lista de prioridades. Tais prioridades podem incluir obrigações nacionais do tratado de um país através de, por exemplo, da Convenção sobre a Diversidade Biológica (CBD), ou mesmo um compromisso nacional para políticas de acesso a dados científicos. Também podem estar relacionados com objetivos menos ligados à conservação ou investigação biológicaper _per si_, como as metas relativas ao desenvolvimento humano, tais como a saúde humana, a segurança alimentar, nível económico de vida."
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:21
+#: 400.en.adoc:179
 msgid "In addition to convincing this audience of GBIF’s relevance, communication with them must also articulate the cost-effectiveness of investing in both the global infrastructure and the activities of the national node to support the development and maintenance of data-driven evidence for their goals and objectives."
 msgstr "Em adição, para convencer esta audiência da relevância do GBIF, a comunicação com ela deve articular claramente como o GBIF representa um investimento rentável, tanto por meio de financiamento, tanto como apoiar o desenvolvimento e manutenção de evidência suportada por dados em apoio a esses objetivos."
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:23
+#: 400.en.adoc:181
 msgid "Finally, engaging this audience needs to pre-empt questions about any perceived duplication between GBIF and other biodiversity-related information initiatives, stressing its complementarity with and, indeed, direct involvement in institutions such as the CBD, the Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES) and the Group on Earth Observations Biodiversity Observation Network (GEO BON)."
 msgstr "Finalmente, para envolver esta audiência é preciso antecipar perguntas inevitáveis sobre a duplicação entre o GBIF e outras iniciativas de informação relacionados com a biodiversidade, sublinhando a sua complementaridade e a participação direta em instituições como a CDB, a _Intergovernmental Platform on Biodiversity and Ecosystem Services_ (IPBES) e _Group on Earth Observations Biodiversity Observation Network_ (GEO BON)."
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:27
+#: 400.en.adoc:185
 msgid "GBIF is particularly valuable to decision makers because it:"
 msgstr "O GBIF é particularmente valioso para os tomadores de decisões porque:"
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:29
+#: 400.en.adoc:187
 msgid "Supports the information requirements for meeting national and global commitments, including biodiversity-related conventions and sustainable development goals"
 msgstr "Suporta os requisitos de informação para o cumprimento dos compromissos nacionais e globais, incluindo convenções relacionadas com biodiversidade e metas de desenvolvimento sustentável"
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:30
+#: 400.en.adoc:188
 msgid "Leverages national, regional and global investment in scientific research by enabling cost-effective discovery and re-use of existing biodiversity data"
 msgstr "Permite alavancar o investimento nacional, regional e global na investigação científica, permitindo a descoberta a baixo custo e reutilização dos dados existentes de biodiversidade"
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:31
+#: 400.en.adoc:189
 msgid "Complements other biodiversity-related initiatives by providing data foundations for a wide range of studies, projects and applications"
 msgstr "Complementa outras iniciativas relacionadas com a biodiversidade, fornecendo bases de dados para uma ampla gama de estudos, projetos e aplicações"
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:32
+#: 400.en.adoc:190
 msgid "Helps to fulfill commitments to improve transparency and open access to scientific data"
 msgstr "Ajuda a cumprir os compromissos para melhorar a transparência e o livre acesso a dados científicos"
 
 #. type: Plain text
-#: 04-audience-segmentation/05-decision-makers/index.en.adoc:32
+#: 400.en.adoc:191
 msgid "Supports applied research relevant to policy decisions across a range of issues of primary economic and social importance, including food security, agricultural livelihoods, disease risk and the impacts of climate change."
 msgstr "Apoia a investigação aplicada relevante para as decisões políticas numa série de questões primárias de importância económica e social, incluindo a segurança alimentar, meios de vida agrícolas, o risco de doença e os impactos da mudança climática."
 
 #. type: Title ==
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:1
+#: 400.en.adoc:192
 #, no-wrap
 msgid "AUDIENCE 6. Public stakeholders"
 msgstr "AUDIÊNCIA 6. Partes interessadas públicas"
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:6
+#: 400.en.adoc:197
 msgid "Early-career scientists"
 msgstr "Cientistas no inicio de carreira"
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:7
+#: 400.en.adoc:198
 msgid "Educators (professors and teachers)"
 msgstr "Educadores (professores)"
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:8
+#: 400.en.adoc:199
 msgid "University students in biodiversity, environment and life sciences"
 msgstr "Estudantes universitários em biodiversidade, ambiente e ciências da vida"
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:9
+#: 400.en.adoc:200
 msgid "School students (tertiary, secondary, primary)"
 msgstr "Estudantes do ensino básico e secundário"
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:10
+#: 400.en.adoc:201
 msgid "Wildlife enthusiasts"
 msgstr "Entusiastas da vida selvagem"
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:11
+#: 400.en.adoc:202
 msgid "Environmentally engaged individuals"
 msgstr "Indivíduos com envolvimento ambiental"
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:12
+#: 400.en.adoc:203
 msgid "The wider software developer community"
 msgstr "A comunidade alargada de programadores de software"
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:14
+#: 400.en.adoc:205
 msgid "The audiences listed in the earlier part of this strategy each have distinct communication requirements that are indispensible to the GBIF’s global mission. These audiences extend into other groups for whom communication from the GBIF Secretariat may be less essential, but who nevertheless merit attention in this strategy because of the indirect or long-term benefits of raising awareness of GBIF. The Participants in the GBIF network also often have an interest in directly engaging these groups in order to build and consolidate support for their national, regional or thematic activities."
 msgstr "As audiências listadas na primeira parte desta estratégia têm requisitos de comunicação distintas que são indispensáveis para a missão global do GBIF. Para além destas audiências, estendem-se a outros grupos para os quais a comunicação do Secretariado pode ser menos essencial, mas, no entanto, merecem atenção nesta estratégia por causa dos benefícios indiretos, ou benefícios a longo prazo para aumentar a sensibilização sobre o GBIF. Os Participantes da rede GBIF podem também ter interesse num compromisso direto com estes grupos, a fim de consolidar o apoio para as suas atividades temáticas nacionais e regionais."
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:16
+#: 400.en.adoc:207
 msgid "This broad audience of public stakeholders includes early-career scientists, educators and students (particularly in the life sciences), wildlife enthusiasts, and environmentally engaged citizens. These groups may have some interest in and awareness of GBIF.org as a freely available source of global data on biodiversity; however, their contact is more likely be with those sites aimed directly at lay audiences, some of which contribute data through GBIF or make use of GBIF as a data source. Portals developed by GBIF Participants also serve the function of informing local constituencies about the species that occur in their countries, regions and localities."
 msgstr "Esta audiência alargada de partes interessadas inclui cientistas no inicio da carreira, educadores e, estudantes (particularmente em ciências da vida), entusiastas da vida selvagem, e cidadão ambientalmente envolvidos. Estes grupos podem ter interesse ou estarem alertados para o GBIF.org como uma fonte livre de disponibilização de dados sobre biodiversidade; no entanto, o seu contacto é mais provável através daqueles sites que visam diretamente o público, alguns dos quais também são contribuintes de dados através do GBIF ou usam o GBIF como fonte de dados. Os portais desenvolvidos pelos Participantes do GBIF também têm a função de informar o público local sobre as espécies que ocorrem nos seus países, regiões e localidades."
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:18
+#: 400.en.adoc:209
 msgid "Engagement with these groups is probably most effective in the context of citizen science (see also Audience Group 2 – Data holders). Several GBIF nodes have initiated highly successful campaigns to engage non-professional participants to generate data, for example, through ’bioblitz’ events and crowd-sourced digitization and curation of specimen data. Communication in the context of such activities shows individuals that their enthusiasm for wildlife can produce valuable scientific evidence that benefits the whole community while offering recognition for individual observers or collectors. Such communications provide value by expanding constituencies of support for global and national activities through GBIF ."
 msgstr "O envolvimento com estes grupos é provavelmente mais eficaz no contexto da ciência cidadã (ver também Audiência 2 - Os detentores de dados). Vários nós do GBIF iniciaram campanhas de grande sucesso para envolver tanto nos dados de origem pública, por exemplo através de eventos 'BioBlitz', e em curadoria através de _crowd-sourcing_ da digitalização de dados de espécimes. A comunicação no contexto destas atividades é demonstrar aos indivíduos que o seu entusiasmo para com a vida selvagem pode produzir evidências cientificamente valiosas com benefício para toda a comunidade, com o reconhecimento anexado aos observadores ou coletores individuais. Estas comunicações fornecem valor e expande o suporte a nível globalou a nível nacional de apoio ao GBIF."
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:20
+#: 400.en.adoc:211
 msgid "A final set of stakeholders is the wider group of software developers that shows interest and appreciation of the open-access research infrastructure developed through GBIF to meet the challenges of biodiversity informatics. It is important to stay engaged with members of this specialist community, even if engaging them appears not to bring direct or immediate benefits to the GBIF mission. Their recognition of GBIF’s activities can help ensure that GBIF’s work is understood and appreciated as an important example of trends and developments across the wider technology and informatics sectors."
 msgstr "Um conjunto final de partes interessadas é o grupo mais amplo, de programadores de software que mostra interesse e apreciação pelas soluções técnicas desenvolvidas pela comunidade GBIF para enfrentar os desafios de informática para a biodiversidade. É importante manter-se envolvido com esta comunidade de especialistas, mesmo não sendo diretamente relevante para a missão GBIF. O seu reconhecimento pelas atividades do GBIF pode ajudar a garantir que o trabalho do GBIF é entendido e apreciado como um exemplo importante de tendências e desenvolvimentos que decorrem amplamente nos setores tecnológicos e informáticos."
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:24
+#: 400.en.adoc:215
 msgid "GBIF is particularly valuable to public stakeholders because it:"
 msgstr "O GBIF é particularmente valioso para o público estratégico porque:"
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:26
+#: 400.en.adoc:217
 msgid "Establishes a foundation for greater knowledge about biodiversity worldwide"
 msgstr "Estabelece uma base para um maior conhecimento sobre a biodiversidade global"
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:27
+#: 400.en.adoc:218
 msgid "Offers opportunities to explore the global body of evidence about life on earth"
 msgstr "Oferece oportunidades para explorar um corpo global de evidências sobre a vida na Terra"
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:28
+#: 400.en.adoc:219
 msgid "Promotes a culture of transparency, open access and evidence-based decision-making with benefits to all"
 msgstr "Promove uma cultura de transparência, acesso aberto e tomada de decisões baseados em evidências, com benefícios para todos"
 
 #. type: Plain text
-#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:28
+#: 400.en.adoc:219
 msgid "Offers examples of innovative solutions for informatics and research infrastructure that are relevant and applicable to other communities and domains"
 msgstr "Oferece exemplos de soluções informáticas inovadoras e infraestrutura de investigação que é relevante e aplicável a outros domínios e comunidades"
 
