@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-communications-strategy\n"
-"POT-Creation-Date: 2020-02-20 13:36+0000\n"
-"PO-Revision-Date: 2020-02-20 13:38\n"
+"POT-Creation-Date: 2020-02-20 14:44+0000\n"
+"PO-Revision-Date: 2020-02-20 14:48\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -185,8 +185,8 @@ msgstr "Proposta de valor do GBIF"
 
 #. type: Plain text
 #: 100.en.adoc:17
-msgid "An message-oriented use-case analysis and grouping of GBIF’s audiences"
-msgstr "A análise de um caso de uso como veículo da mensagem para os vários grupos de audiências do GBIF"
+msgid "A message-oriented use-case analysis and grouping of GBIF’s audiences"
+msgstr ""
 
 #. type: Plain text
 #: 100.en.adoc:18
