@@ -6,25 +6,16 @@ endif::backend-html5[]
 == Colophon
 
 === Suggested citation
-Author U, Autore D & Auteur T. The special guide to something. Third edition. GBIF Secretariat: Copenhagen. https://doi.org/10.15468/doc-xxxx-xxxx.
-
-== Contributors
-
-James Joyce and Samuel Beckett of Trinity College, Dublin, contributed to this version of the document.
+https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://orcid.org/0000-0002-5015-5807[Tim Hirsch] (2015) GBIF Communications Strategy. GBIF Secretariat: Copenhagen. https://doi.org/10.15468/doc-6yp9-9885.
 
 === Licence
-The document _The special guide to something_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
+The document _GBIF Communications Strategy_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
 
 === URI persistente
-https://doi.org/10.15468/doc-xxxx-xxxx
+https://doi.org/10.15468/doc-6yp9-9885
 
 === Document control
-Third edition, April 2019
-
-// include reference to provenance if possible/relevant
-https://doi.org/10.15468/doc-yyyy-yyyy[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Tercio Auteur].
-
-Originally based on an earlier publication, _Towards establishing the special guide to something_.
+Published 2015
 
 === Cover image
 
