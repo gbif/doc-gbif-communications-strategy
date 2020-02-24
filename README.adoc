@@ -1,11 +1,9 @@
+https://builds.gbif.org/job/doc-gbif-communications-strategy/[image:https://builds.gbif.org/job/doc-gbif-communications-strategy/badge/icon[Build status]]
+
 = GBIF Communications Strategy
 
 This document summarizes how GBIF can give structure to its communication activities within its present community, while seeking to expand in the coming years.
 
-It is available in English and Portuguese in both HTML (https://labs.gbif.org/documents/gbif-communications-strategy/en[EN], https://labs.gbif.org/documents/gbif-communications-strategy/pt[PT]) and PDF (https://labs.gbif.org/documents/gbif-communications-strategy/en.pdf[EN], https://labs.gbif.org/documents/gbif-communications-strategy/index.pt.pdf[PT]). The location of these documents is currently considered temporary. 
+It is available in https://docs.gbif-uat.org/gbif-communications-strategy/1.0/en/[English] and https://docs.gbif-uat.org/gbif-communications-strategy/1.0/pt/[Portuguese] in both HTML and PDF.  (This location is temporary until the document is published.)
 
 _This is information *about* this document's source code.  It is not part of the document._
-
-The build status is https://builds.gbif.org/job/doc-gbif-communications-strategy/[image:https://builds.gbif.org/job/doc-gbif-communications-strategy/badge/icon[Build status]]
-
-See https://labs.gbif.org/documents/gbif-communications-strategy/[the generated document] for the guidelines (or read the source files in this repository).
