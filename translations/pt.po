@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-communications-strategy\n"
-"POT-Creation-Date: 2020-02-20 14:54+0000\n"
-"PO-Revision-Date: 2020-02-20 16:09\n"
+"POT-Creation-Date: 2020-05-06 16:36+0000\n"
+"PO-Revision-Date: 2020-05-06 16:44\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -885,7 +885,7 @@ msgstr "Ajuda a cumprir os compromissos para melhorar a transparência e o livre
 msgid "Supports applied research relevant to policy decisions across a range of issues of primary economic and social importance, including food security, agricultural livelihoods, disease risk and the impacts of climate change."
 msgstr "Apoia a investigação aplicada relevante para as decisões políticas numa série de questões primárias de importância económica e social, incluindo a segurança alimentar, meios de vida agrícolas, o risco de doença e os impactos da mudança climática."
 
-#. type: Title ==
+#. type: Title ===
 #: 400.en.adoc:192
 #, no-wrap
 msgid "AUDIENCE 6. Public stakeholders"
