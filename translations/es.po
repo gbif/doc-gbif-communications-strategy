@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-communications-strategy\n"
-"POT-Creation-Date: 2020-05-06 16:36+0000\n"
-"PO-Revision-Date: 2020-05-06 16:44\n"
+"POT-Creation-Date: 2020-05-06 17:31+0000\n"
+"PO-Revision-Date: 2020-05-06 17:35\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -92,53 +92,53 @@ msgid "Suggested citation"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:10
+#: colophon.en.adoc:11
 msgid "https://orcid.org/0000-0002-6590-599X[Kyle Copas] & https://orcid.org/0000-0002-5015-5807[Tim Hirsch] (2015) GBIF Communications Strategy. GBIF Secretariat: Copenhagen. https://doi.org/10.15468/doc-6yp9-9885."
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:11
+#: colophon.en.adoc:12
 #, no-wrap
 msgid "Licence"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:13
+#: colophon.en.adoc:15
 msgid "The document _GBIF Communications Strategy_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:14
+#: colophon.en.adoc:16
 #, no-wrap
 msgid "URI persistente"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:16
+#: colophon.en.adoc:19
 msgid "https://doi.org/10.15468/doc-6yp9-9885"
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:17
+#: colophon.en.adoc:20
 #, no-wrap
 msgid "Document control"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:19
+#: colophon.en.adoc:23
 msgid "Published 2015"
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:20
+#: colophon.en.adoc:24
 #, no-wrap
 msgid "Cover image"
 msgstr ""
 
 #.  Caption. Credit, source, licence.
 #. type: Plain text
-#: colophon.en.adoc:23
-msgid "Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
+#: colophon.en.adoc:27
+msgid "Long-beaked common dolphin (_Delphinus capensis_), South Atlantic Ocean. Photo 2019 Ken Chamberlain via https://www.gbif.org/occurrence/2235477584[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
 msgstr ""
 
 #. type: Title ==
