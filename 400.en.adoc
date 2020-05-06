@@ -189,7 +189,7 @@ GBIF is particularly valuable to decision makers because it:
 *	Helps to fulfill commitments to improve transparency and open access to scientific data 
 *	Supports applied research relevant to policy decisions across a range of issues of primary economic and social importance, including food security, agricultural livelihoods, disease risk and the impacts of climate change. 
 
-== AUDIENCE 6. Public stakeholders
+=== AUDIENCE 6. Public stakeholders
 
 ==== Constituent segments
 
