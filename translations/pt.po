@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-communications-strategy\n"
-"POT-Creation-Date: 2020-05-06 17:31+0000\n"
-"PO-Revision-Date: 2020-05-06 17:35\n"
+"POT-Creation-Date: 2020-05-06 17:59+0000\n"
+"PO-Revision-Date: 2020-05-06 18:00\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -110,8 +110,8 @@ msgstr "O documento _GBIF Communications Strategy_ está licenciado em https://c
 #. type: Title ===
 #: colophon.en.adoc:16
 #, no-wrap
-msgid "URI persistente"
-msgstr "URI persistente"
+msgid "Persistent URI"
+msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:19
