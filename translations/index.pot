@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-05-06 17:59+0000\n"
+"POT-Creation-Date: 2020-07-08 15:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,20 +28,20 @@ msgid "GBIF Secretariat <https://www.gbif.org/>"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:9
+#: index.en.adoc:11
 msgid ""
 "_languageLinks:pdf[This document is also available in,PDF format] and "
 "languageLinks:languages[in other languages:,.]_"
 msgstr ""
 
 #. type: Title ==
-#: index.en.adoc:12
+#: index.en.adoc:14
 #, no-wrap
 msgid "Preface"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:15
+#: index.en.adoc:17
 msgid ""
 "This document summarizes how GBIF can give structure to its communication "
 "activities within its present community, while seeking to expand in the "
@@ -49,25 +49,25 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:17
+#: index.en.adoc:19
 msgid ""
 "This version incorporates changes recommended by members of the GBIF "
 "community."
 msgstr ""
 
 #. type: Title ==
-#: index.en.adoc:35
+#: index.en.adoc:37
 #, no-wrap
 msgid "License and citation"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:38
+#: index.en.adoc:40
 msgid "(C) GBIF Secretariat 2015."
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:40
+#: index.en.adoc:42
 msgid ""
 "This work is licensed under a "
 "https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution "
@@ -75,13 +75,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: index.en.adoc:41
+#: index.en.adoc:43
 #, no-wrap
 msgid "Citation"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:43
+#: index.en.adoc:45
 msgid ""
 "GBIF Secretariat (2015) GBIF Communication Strategy. 10 pp. Copenhagen: GBIF "
 "Secretariat. Accessed at http://www.gbif.org/document/80926."
@@ -960,7 +960,7 @@ msgstr ""
 #: 400.en.adoc:121
 msgid ""
 "Complements the work of expert groups by integrating evidence that may "
-"inform judgments on species ranges and/or conservation priorities, while "
+"inform judgements on species ranges and/or conservation priorities, while "
 "providing the means for publication and curation of occurrence data arising "
 "from expert assessments."
 msgstr ""
@@ -1265,7 +1265,7 @@ msgstr ""
 #. type: Plain text
 #: 400.en.adoc:190
 msgid ""
-"Helps to fulfill commitments to improve transparency and open access to "
+"Helps to fulfil commitments to improve transparency and open access to "
 "scientific data"
 msgstr ""
 
@@ -1322,7 +1322,7 @@ msgstr ""
 #: 400.en.adoc:205
 msgid ""
 "The audiences listed in the earlier part of this strategy each have distinct "
-"communication requirements that are indispensible to the GBIF’s global "
+"communication requirements that are indispensable to the GBIF’s global "
 "mission. These audiences extend into other groups for whom communication "
 "from the GBIF Secretariat may be less essential, but who nevertheless merit "
 "attention in this strategy because of the indirect or long-term benefits of "
