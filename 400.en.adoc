@@ -117,7 +117,7 @@ GBIF is particularly valuable to biodiversity knowledge experts because it:
 * Pools the expertise of biodiversity specialists in order to improve the quality of freely available digital data, to the benefit of all
 * Provides the means for long-term persistence of biodiversity collections data as insurance against potential loss of original data sources
 * Enables discovery of millions of specimens and observation records, increasingly accompanied by images or audio recordings, with links enabling further study
-* Complements the work of expert groups by integrating evidence that may inform judgments on species ranges and/or conservation priorities, while providing the means for publication and curation of occurrence data arising from expert assessments.
+* Complements the work of expert groups by integrating evidence that may inform judgements on species ranges and/or conservation priorities, while providing the means for publication and curation of occurrence data arising from expert assessments.
 
 === AUDIENCE 4. Data users
 
@@ -186,7 +186,7 @@ GBIF is particularly valuable to decision makers because it:
 * Supports the information requirements for meeting national and global commitments, including biodiversity-related conventions and sustainable development goals
 *	Leverages national, regional and global investment in scientific research by enabling cost-effective discovery and re-use of existing biodiversity data
 *	Complements other biodiversity-related initiatives by providing data foundations for a wide range of studies, projects and applications
-*	Helps to fulfill commitments to improve transparency and open access to scientific data 
+*	Helps to fulfil commitments to improve transparency and open access to scientific data 
 *	Supports applied research relevant to policy decisions across a range of issues of primary economic and social importance, including food security, agricultural livelihoods, disease risk and the impacts of climate change. 
 
 === AUDIENCE 6. Public stakeholders
@@ -201,7 +201,7 @@ GBIF is particularly valuable to decision makers because it:
 *	Environmentally engaged individuals
 *	The wider software developer community
 
-The audiences listed in the earlier part of this strategy each have distinct communication requirements that are indispensible to the GBIF’s global mission. These audiences extend into other groups for whom communication from the GBIF Secretariat may be less essential, but who nevertheless merit attention in this strategy because of the indirect or long-term benefits of raising awareness of GBIF. The Participants in the GBIF network also often have an interest in directly engaging these groups in order to build and consolidate support for their national, regional or thematic activities.
+The audiences listed in the earlier part of this strategy each have distinct communication requirements that are indispensable to the GBIF’s global mission. These audiences extend into other groups for whom communication from the GBIF Secretariat may be less essential, but who nevertheless merit attention in this strategy because of the indirect or long-term benefits of raising awareness of GBIF. The Participants in the GBIF network also often have an interest in directly engaging these groups in order to build and consolidate support for their national, regional or thematic activities.
 
 This broad audience of public stakeholders includes early-career scientists, educators and students (particularly in the life sciences), wildlife enthusiasts, and environmentally engaged citizens. These groups may have some interest in and awareness of GBIF.org as a freely available source of global data on biodiversity; however, their contact is more likely be with those sites aimed directly at lay audiences, some of which contribute data through GBIF or make use of GBIF as a data source. Portals developed by GBIF Participants also serve the function of informing local constituencies about the species that occur in their countries, regions and localities. 
 

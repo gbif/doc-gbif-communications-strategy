@@ -1,5 +1,7 @@
 = GBIF Communications Strategy
 GBIF Secretariat <https://www.gbif.org/>
+:toc: left
+:numbered:
 :revnumber: {git-metadata-branch}
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
 :license: https://creativecommons.org/licenses/by/4.0/
