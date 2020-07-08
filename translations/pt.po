@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-communications-strategy\n"
 "POT-Creation-Date: 2020-05-06 17:59+0000\n"
-"PO-Revision-Date: 2020-05-18 09:28\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2020-07-08 15:12\n"
+"Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
@@ -11,8 +11,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: gbif-communications-strategy\n"
+"X-Crowdin-Project-ID: 361769\n"
 "X-Crowdin-Language: pt-PT\n"
 "X-Crowdin-File: /1.0/translations/index.pot\n"
+"X-Crowdin-File-ID: 294\n"
 
 #. type: Title =
 #: index.en.adoc:1
@@ -681,7 +683,7 @@ msgstr "Permite a descoberta de milhões de espécimes e registos5 de observaç�
 #. type: Plain text
 #: 400.en.adoc:121
 msgid "Complements the work of expert groups by integrating evidence that may inform judgments on species ranges and/or conservation priorities, while providing the means for publication and curation of occurrence data arising from expert assessments."
-msgstr "Complementa o trabalho dos grupos de especialistas integrando evidências que podem informar julgamentos sobre determinadas espécies e/ou prioridades de conservação; enquanto fornece os meios para a publicação e curadoria de dados sobre a ocorrência, decorrentes de avaliações de especialistas."
+msgstr ""
 
 #. type: Title ===
 #: 400.en.adoc:122
@@ -878,7 +880,7 @@ msgstr "Complementa outras iniciativas relacionadas com a biodiversidade, fornec
 #. type: Plain text
 #: 400.en.adoc:190
 msgid "Helps to fulfill commitments to improve transparency and open access to scientific data"
-msgstr "Ajuda a cumprir os compromissos para melhorar a transparência e o livre acesso a dados científicos"
+msgstr ""
 
 #. type: Plain text
 #: 400.en.adoc:191
@@ -929,7 +931,7 @@ msgstr "A comunidade alargada de programadores de software"
 #. type: Plain text
 #: 400.en.adoc:205
 msgid "The audiences listed in the earlier part of this strategy each have distinct communication requirements that are indispensible to the GBIF’s global mission. These audiences extend into other groups for whom communication from the GBIF Secretariat may be less essential, but who nevertheless merit attention in this strategy because of the indirect or long-term benefits of raising awareness of GBIF. The Participants in the GBIF network also often have an interest in directly engaging these groups in order to build and consolidate support for their national, regional or thematic activities."
-msgstr "As audiências listadas na primeira parte desta estratégia têm requisitos de comunicação distintas que são indispensáveis para a missão global do GBIF. Para além destas audiências, estendem-se a outros grupos para os quais a comunicação do Secretariado pode ser menos essencial, mas, no entanto, merecem atenção nesta estratégia por causa dos benefícios indiretos, ou benefícios a longo prazo para aumentar a sensibilização sobre o GBIF. Os Participantes da rede GBIF podem também ter interesse num compromisso direto com estes grupos, a fim de consolidar o apoio para as suas atividades temáticas nacionais e regionais."
+msgstr ""
 
 #. type: Plain text
 #: 400.en.adoc:207
