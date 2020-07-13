@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-08 15:01+0000\n"
+"POT-Creation-Date: 2020-07-13 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,9 +29,7 @@ msgstr ""
 
 #. type: Plain text
 #: index.en.adoc:11
-msgid ""
-"_languageLinks:pdf[This document is also available in,PDF format] and "
-"languageLinks:languages[in other languages:,.]_"
+msgid "languageLinks:combined[]"
 msgstr ""
 
 #. type: Title ==
