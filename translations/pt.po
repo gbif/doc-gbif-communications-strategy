@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-communications-strategy\n"
-"POT-Creation-Date: 2020-05-06 17:59+0000\n"
-"PO-Revision-Date: 2020-07-08 15:12\n"
+"POT-Creation-Date: 2020-07-13 10:34+0000\n"
+"PO-Revision-Date: 2020-07-13 10:36\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -28,50 +28,50 @@ msgid "GBIF Secretariat <https://www.gbif.org/>"
 msgstr "Secretariado GBIF <https://www.gbif.org/>"
 
 #. type: Plain text
-#: index.en.adoc:9
-msgid "_languageLinks:pdf[This document is also available in,PDF format] and languageLinks:languages[in other languages:,.]_"
-msgstr "_languageLinks:pdf[Este documento também está disponível em,PDF format] e languageLinks:languages[em outros idiomas:,.]_"
+#: index.en.adoc:11
+msgid "languageLinks:combined[]"
+msgstr ""
 
 #. type: Title ==
-#: index.en.adoc:12
+#: index.en.adoc:14
 #, no-wrap
 msgid "Preface"
 msgstr "Preface"
 
 #. type: Plain text
-#: index.en.adoc:15
+#: index.en.adoc:17
 msgid "This document summarizes how GBIF can give structure to its communication activities within its present community, while seeking to expand in the coming years. It is also available in Portuguese."
 msgstr "Este documento resume como GBIF pode dar estrutura às suas atividades de comunicação dentro de sua comunidade presente, buscando expandir nos próximos anos. Ele também está disponível em inglês."
 
 #. type: Plain text
-#: index.en.adoc:17
+#: index.en.adoc:19
 msgid "This version incorporates changes recommended by members of the GBIF community."
 msgstr "Esta versão da estratégia incorpora alterações recomendadas pelos membros da comunidade GBIF."
 
 #. type: Title ==
-#: index.en.adoc:35
+#: index.en.adoc:37
 #, no-wrap
 msgid "License and citation"
 msgstr "Licença e citação"
 
 #. type: Plain text
-#: index.en.adoc:38
+#: index.en.adoc:40
 msgid "(C) GBIF Secretariat 2015."
 msgstr "(C) Secretariado GBIF 2015."
 
 #. type: Plain text
-#: index.en.adoc:40
+#: index.en.adoc:42
 msgid "This work is licensed under a https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License]."
 msgstr "Este trabalho está licenciado com uma Licença https://creativecommons.org/licenses/by/4.0/[Creative Commons - Atribuição 4.0 Internacional]."
 
 #. type: Title ===
-#: index.en.adoc:41
+#: index.en.adoc:43
 #, no-wrap
 msgid "Citation"
 msgstr "Citação"
 
 #. type: Plain text
-#: index.en.adoc:43
+#: index.en.adoc:45
 msgid "GBIF Secretariat (2015) GBIF Communication Strategy. 10 pp. Copenhagen: GBIF Secretariat. Accessed at http://www.gbif.org/document/80926."
 msgstr "GBIF Secretaria (2015) Estratégia de Comunicação GBIF. 10 pp. Copenhaga: GBIF Secretaria. Acessado em http://www.gbif.org/document/80926."
 
@@ -682,7 +682,7 @@ msgstr "Permite a descoberta de milhões de espécimes e registos5 de observaç�
 
 #. type: Plain text
 #: 400.en.adoc:121
-msgid "Complements the work of expert groups by integrating evidence that may inform judgments on species ranges and/or conservation priorities, while providing the means for publication and curation of occurrence data arising from expert assessments."
+msgid "Complements the work of expert groups by integrating evidence that may inform judgements on species ranges and/or conservation priorities, while providing the means for publication and curation of occurrence data arising from expert assessments."
 msgstr ""
 
 #. type: Title ===
@@ -879,7 +879,7 @@ msgstr "Complementa outras iniciativas relacionadas com a biodiversidade, fornec
 
 #. type: Plain text
 #: 400.en.adoc:190
-msgid "Helps to fulfill commitments to improve transparency and open access to scientific data"
+msgid "Helps to fulfil commitments to improve transparency and open access to scientific data"
 msgstr ""
 
 #. type: Plain text
@@ -930,7 +930,7 @@ msgstr "A comunidade alargada de programadores de software"
 
 #. type: Plain text
 #: 400.en.adoc:205
-msgid "The audiences listed in the earlier part of this strategy each have distinct communication requirements that are indispensible to the GBIF’s global mission. These audiences extend into other groups for whom communication from the GBIF Secretariat may be less essential, but who nevertheless merit attention in this strategy because of the indirect or long-term benefits of raising awareness of GBIF. The Participants in the GBIF network also often have an interest in directly engaging these groups in order to build and consolidate support for their national, regional or thematic activities."
+msgid "The audiences listed in the earlier part of this strategy each have distinct communication requirements that are indispensable to the GBIF’s global mission. These audiences extend into other groups for whom communication from the GBIF Secretariat may be less essential, but who nevertheless merit attention in this strategy because of the indirect or long-term benefits of raising awareness of GBIF. The Participants in the GBIF network also often have an interest in directly engaging these groups in order to build and consolidate support for their national, regional or thematic activities."
 msgstr ""
 
 #. type: Plain text
