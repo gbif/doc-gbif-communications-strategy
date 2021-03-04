@@ -7,13 +7,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-05-07 14:48+0000\n"
+"POT-Creation-Date: 2021-03-04 12:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Title =
@@ -357,7 +357,11 @@ msgid "AUDIENCE 1. The GBIF network"
 msgstr ""
 
 #. type: Title ===
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:3 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:3 04-audience-segmentation/04-data-users/index.en.adoc:3 04-audience-segmentation/05-decision-makers/index.en.adoc:3 04-audience-segmentation/06-public-stakeholders/index.en.adoc:3
+#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:3
+#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:3
+#: 04-audience-segmentation/04-data-users/index.en.adoc:3
+#: 04-audience-segmentation/05-decision-makers/index.en.adoc:3
+#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:3
 #, no-wrap
 msgid "Constituent segments"
 msgstr ""
@@ -390,7 +394,8 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:11 04-audience-segmentation/04-data-users/index.en.adoc:13
+#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:11
+#: 04-audience-segmentation/04-data-users/index.en.adoc:13
 #, no-wrap
 msgid "Primary communication needs"
 msgstr ""
@@ -488,7 +493,12 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:29 04-audience-segmentation/02-data-holders/index.en.adoc:35 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:23 04-audience-segmentation/04-data-users/index.en.adoc:28 04-audience-segmentation/05-decision-makers/index.en.adoc:24 04-audience-segmentation/06-public-stakeholders/index.en.adoc:21
+#: 04-audience-segmentation/01-the-gbif-network/index.en.adoc:29
+#: 04-audience-segmentation/02-data-holders/index.en.adoc:35
+#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:23
+#: 04-audience-segmentation/04-data-users/index.en.adoc:28
+#: 04-audience-segmentation/05-decision-makers/index.en.adoc:24
+#: 04-audience-segmentation/06-public-stakeholders/index.en.adoc:21
 #, no-wrap
 msgid "Key messages "
 msgstr ""
@@ -620,7 +630,9 @@ msgid "Indigenous and local communities"
 msgstr ""
 
 #. type: Title ===
-#: 04-audience-segmentation/02-data-holders/index.en.adoc:17 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:11 04-audience-segmentation/05-decision-makers/index.en.adoc:10
+#: 04-audience-segmentation/02-data-holders/index.en.adoc:17
+#: 04-audience-segmentation/03-biodiversity-knowledge-experts/index.en.adoc:11
+#: 04-audience-segmentation/05-decision-makers/index.en.adoc:10
 #, no-wrap
 msgid "Primary communication needs "
 msgstr ""
