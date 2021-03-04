@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-communications-strategy\n"
-"POT-Creation-Date: 2020-07-13 10:34+0000\n"
-"PO-Revision-Date: 2020-07-13 10:36\n"
+"POT-Creation-Date: 2021-03-04 12:15+0000\n"
+"PO-Revision-Date: 2021-03-04 12:17\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -406,7 +406,8 @@ msgid "By providing GBIF network members with a clear framework, shared vocabula
 msgstr ""
 
 #. type: Title ====
-#: 400.en.adoc:35 400.en.adoc:80 400.en.adoc:112 400.en.adoc:149 400.en.adoc:182 400.en.adoc:212
+#: 400.en.adoc:35 400.en.adoc:80 400.en.adoc:112 400.en.adoc:149
+#: 400.en.adoc:182 400.en.adoc:212
 #, no-wrap
 msgid "Key messages "
 msgstr ""
