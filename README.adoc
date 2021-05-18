@@ -8,6 +8,6 @@ https://builds.gbif.org/job/doc-gbif-communications-strategy/lastBuild/console[i
 
 This document summarizes how GBIF can give structure to its communication activities within its present community, while seeking to expand in the coming years.
 
-It is available in https://docs.gbif-uat.org/gbif-communications-strategy/1.0/en/[English] and https://docs.gbif-uat.org/gbif-communications-strategy/1.0/pt/[Portuguese] in both HTML and PDF.  (This location is temporary until the document is published.)
+It is available in https://docs.gbif.org/gbif-communications-strategy/1.0/en/[English] and https://docs.gbif.org/gbif-communications-strategy/1.0/pt/[Portuguese] in both HTML and PDF.
 
 _This is information *about* this document's source code.  It is not part of the document._
