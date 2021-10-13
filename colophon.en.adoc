@@ -24,4 +24,4 @@ Published 2015
 === Cover image
 
 // Caption. Credit, source, licence.
-Long-beaked common dolphin (_Delphinus capensis_), South Atlantic Ocean. Photo 2019 Ken Chamberlain via https://www.gbif.org/occurrence/2235477584[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0].
+Common dolphins (_Delphinus_), South Atlantic Ocean. Photo 2019 Ken Chamberlain via https://www.inaturalist.org/observations/21608671[iNaturalist.org], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0].
