@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-10-13 11:26+0000\n"
+"POT-Creation-Date: 2023-06-19 11:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -434,7 +434,7 @@ msgid "AUDIENCE 1. The GBIF network"
 msgstr ""
 
 #. type: Title ====
-#: 400.en.adoc:9 400.en.adoc:92 400.en.adoc:124 400.en.adoc:161 400.en.adoc:194
+#: 400.en.adoc:9 400.en.adoc:93 400.en.adoc:125 400.en.adoc:162 400.en.adoc:195
 #, no-wrap
 msgid "Constituent segments"
 msgstr ""
@@ -456,45 +456,55 @@ msgstr ""
 
 #. type: Plain text
 #: 400.en.adoc:15
-msgid "Secretariat staff and contractors"
+msgid "Secretariat staff"
 msgstr ""
 
 #. type: Plain text
 #: 400.en.adoc:16
+msgid "GBIF contractors"
+msgstr ""
+
+#. type: Plain text
+#: 400.en.adoc:17
 msgid ""
 "Relevant staff in GBIF affiliate organizations and those with memoranda of "
 "cooperation with GBIF Secretariat"
 msgstr ""
 
+#. type: Plain text
+#: 400.en.adoc:18
+msgid "Current GBIF data publishers"
+msgstr ""
+
 #. type: Title ====
-#: 400.en.adoc:17 400.en.adoc:134
+#: 400.en.adoc:19 400.en.adoc:135
 #, no-wrap
 msgid "Primary communication needs"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:20
+#: 400.en.adoc:22
 msgid ""
 "Clear information on how to participate effectively in GBIF and obtain the "
 "benefits arising from participation"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:21
+#: 400.en.adoc:23
 msgid ""
 "Resources to help communicate onwards the means and benefits of "
 "participation to relevant stakeholders"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:22
+#: 400.en.adoc:24
 msgid ""
 "Efficient mechanisms for two-way communication to ensure rich sharing of "
 "information across the community and to external audiences"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:24
+#: 400.en.adoc:26
 msgid ""
 "This audience may be described as GBIF ‘insiders’ or ‘family’: those who "
 "work (explicitly or implicitly) to implement GBIF’s mission, strategic plans "
@@ -505,7 +515,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:26
+#: 400.en.adoc:28
 msgid ""
 "Broadly speaking, they all need to understand precisely why they are "
 "involved with GBIF, how they can participate most effectively and what the "
@@ -515,7 +525,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:28
+#: 400.en.adoc:30
 msgid ""
 "To maintain and grow the GBIF network, communications must directly address "
 "and engage this critical audience, as a means of sustaining a shared sense "
@@ -527,7 +537,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:30
+#: 400.en.adoc:32
 msgid ""
 "Communications within the GBIF network must flow in both directions: not "
 "only ensuring that each segment of this audience has timely access to "
@@ -538,7 +548,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:32
+#: 400.en.adoc:34
 msgid ""
 "The entire GBIF network performs the work of outreach to national or "
 "thematic stakeholders, so all members have an interest in reducing "
@@ -553,7 +563,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:34
+#: 400.en.adoc:36
 msgid ""
 "By providing GBIF network members with a clear framework, shared vocabulary "
 "and consistent materials that tell their collective story—why they are "
@@ -565,26 +575,26 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: 400.en.adoc:35 400.en.adoc:80 400.en.adoc:112 400.en.adoc:149
-#: 400.en.adoc:182 400.en.adoc:212
+#: 400.en.adoc:37 400.en.adoc:81 400.en.adoc:113 400.en.adoc:150
+#: 400.en.adoc:183 400.en.adoc:213
 #, no-wrap
 msgid "Key messages "
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:38
+#: 400.en.adoc:40
 msgid "GBIF is particularly valuable to network members because it:"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:40
+#: 400.en.adoc:42
 msgid ""
 "Enables them to use GBIF’s collaborative mechanisms to solve problems and "
 "generate positive impacts"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:41
+#: 400.en.adoc:43
 msgid ""
 "Offers common tools, practices and information resources to help meet "
 "national or organizational needs for mobilizing and managing biodiversity "
@@ -592,86 +602,81 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:42
+#: 400.en.adoc:44
 msgid ""
 "Enables the integration of data from national and regional sources with "
 "other relevant data published elsewhere"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:43
+#: 400.en.adoc:45
 msgid ""
 "Offers researchers within countries or organizations a cost-effective means "
 "of accessing all available data on the occurrence of species"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:44
+#: 400.en.adoc:46
 msgid ""
 "Supports national commitments to conserve and sustain national biodiversity "
 "resources and to promote open access to scientific data"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:45
+#: 400.en.adoc:47
 msgid "Places the network’s activities within a meaningful global context"
 msgstr ""
 
 #. type: Title ===
-#: 400.en.adoc:46
+#: 400.en.adoc:48
 #, no-wrap
 msgid "AUDIENCE 2. Data holders"
 msgstr ""
 
 #. type: Title ====
-#: 400.en.adoc:48
+#: 400.en.adoc:50
 #, no-wrap
 msgid "Constituent segments "
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:51
-msgid "Current GBIF data publishers"
-msgstr ""
-
-#. type: Plain text
-#: 400.en.adoc:52
+#: 400.en.adoc:53
 msgid "Natural history collection curators, informaticians and scientists"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:53
+#: 400.en.adoc:54
 msgid "Field biologists"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:54
+#: 400.en.adoc:55
 msgid ""
 "Citizen scientists, voluntary recording networks and observation aggregating "
 "sites"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:55
+#: 400.en.adoc:56
 msgid "Authors, editors and publishers of scientific research"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:56
+#: 400.en.adoc:57
 msgid ""
 "Libraries and other custodians of historic biodiversity-related literature "
 "and multimedia archives"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:57
+#: 400.en.adoc:58
 msgid ""
 "Generators of remotely-sensed data including camera traps, acoustic "
 "monitoring and satellite/aerial observations"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:58
+#: 400.en.adoc:59
 msgid ""
 "Organizers and practitioners of surveys and monitoring programmes carried "
 "out for public agencies, protected area management and non-governmental "
@@ -679,51 +684,51 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:59
+#: 400.en.adoc:60
 msgid ""
 "Corporate staff and consultants and regulatory authorities holding primary "
 "biodiversity data from environmental impact assessments"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:60
+#: 400.en.adoc:61
 msgid ""
 "Researchers conducting genetic sequencing, barcoding and metagenomic "
 "sampling"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:61
+#: 400.en.adoc:62
 msgid "Indigenous and local communities"
 msgstr ""
 
 #. type: Title ====
-#: 400.en.adoc:62 400.en.adoc:100 400.en.adoc:168
+#: 400.en.adoc:63 400.en.adoc:101 400.en.adoc:169
 #, no-wrap
 msgid "Primary communication needs "
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:65
+#: 400.en.adoc:66
 msgid ""
 "Information on the importance and benefits of sharing and publishing data in "
 "standard formats that make them widely discoverable and re-usable"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:66
+#: 400.en.adoc:67
 msgid "Clear guidance on how to publish data"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:67
+#: 400.en.adoc:68
 msgid ""
 "Onward communication tools to make the case for investment in digitization "
 "and publication of biodiversity data"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:69
+#: 400.en.adoc:70
 msgid ""
 "This audience represents the owners and custodians of the biodiversity data "
 "currently or potentially documented through the GBIF network. Much of the "
@@ -733,7 +738,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:71
+#: 400.en.adoc:72
 msgid ""
 "First, the importance of and benefits from sharing biodiversity data in "
 "suitable formats and under clear conditions of use must be constantly "
@@ -744,7 +749,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:73
+#: 400.en.adoc:74
 msgid ""
 "Second, data holders need guidance on how to mobilize and publish their data "
 "using common standards to make them discoverable and available for re-use in "
@@ -755,7 +760,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:75
+#: 400.en.adoc:76
 msgid ""
 "Finally, data holders need secondary communication tools that enable them to "
 "make the case for investment in and commitment to mobilizing data, both "
@@ -766,7 +771,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:77
+#: 400.en.adoc:78
 msgid ""
 "To reach the whole of this audience, communication tools need to be suitable "
 "for a wide range of different groups, including people still unfamiliar with "
@@ -776,7 +781,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:79
+#: 400.en.adoc:80
 msgid ""
 "For this audience too, two-way communication is important. Through its "
 "global communication channels, GBIF can and already does publicize the "
@@ -787,81 +792,81 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:83
+#: 400.en.adoc:84
 msgid "GBIF is particularly valuable to data holders because it:"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:85
+#: 400.en.adoc:86
 msgid ""
 "Enables efficient means to mobilize, manage and publish digital biodiversity "
 "data"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:86
+#: 400.en.adoc:87
 msgid ""
 "Helps provide institutional visibility and recognition for sharing "
 "biodiversity data in formats suitable for discovery and re-use"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:87
+#: 400.en.adoc:88
 msgid ""
 "Provides free, open-access tools and guidance for publishing digital "
 "datasets"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:88
+#: 400.en.adoc:89
 msgid "Promotes practices that ensure data persistence and data provenance"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:89
+#: 400.en.adoc:90
 msgid "Helps comply with open data regulations and requirements"
 msgstr ""
 
 #. type: Title ===
-#: 400.en.adoc:90
+#: 400.en.adoc:91
 #, no-wrap
 msgid "AUDIENCE 3. Biological knowledge experts"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:95
+#: 400.en.adoc:96
 msgid "Zoologists, botanists, mycologists and other species specialists"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:96
+#: 400.en.adoc:97
 msgid "Taxonomists"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:97
+#: 400.en.adoc:98
 msgid "Ecologists"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:98
+#: 400.en.adoc:99
 msgid "Expert networks"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:99
+#: 400.en.adoc:100
 msgid "Nomenclatural associations"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:103
+#: 400.en.adoc:104
 msgid ""
 "Familiarity with GBIF’s current activities, capabilities, limitations and "
 "potential as a global virtual natural history collection"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:104
+#: 400.en.adoc:105
 msgid ""
 "Guidance about how best to engage with the GBIF network and its data holders "
 "to steadily and consistently improve the quality of open access biodiversity "
@@ -869,7 +874,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:105
+#: 400.en.adoc:106
 msgid ""
 "Assurance of the value of such engagement in terms of advancing their own "
 "professional interests, the biological sciences and biodiversity "
@@ -877,7 +882,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:107
+#: 400.en.adoc:108
 msgid ""
 "This audience represents a core community of individual scientists and "
 "experts. Their confidence in the usefulness of data mobilized through GBIF "
@@ -892,7 +897,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:109
+#: 400.en.adoc:110
 msgid ""
 "Among the key communication challenges related to this audience is to ensure "
 "that their view of GBIF is based on accurate, up-to-date information about "
@@ -908,7 +913,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:111
+#: 400.en.adoc:112
 msgid ""
 "This group possesses knowledge for identifying both the gaps in the data "
 "currently accessible through GBIF and the shortcomings of the data already "
@@ -921,33 +926,33 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:115
+#: 400.en.adoc:116
 msgid "GBIF is particularly valuable to biodiversity knowledge experts because it:"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:117
+#: 400.en.adoc:118
 msgid ""
 "Provides a platform for collaborative collection management and taxonomy "
 "that helps establish a ‘virtual natural history collection’ for the planet"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:118
+#: 400.en.adoc:119
 msgid ""
 "Pools the expertise of biodiversity specialists in order to improve the "
 "quality of freely available digital data, to the benefit of all"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:119
+#: 400.en.adoc:120
 msgid ""
 "Provides the means for long-term persistence of biodiversity collections "
 "data as insurance against potential loss of original data sources"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:120
+#: 400.en.adoc:121
 msgid ""
 "Enables discovery of millions of specimens and observation records, "
 "increasingly accompanied by images or audio recordings, with links enabling "
@@ -955,7 +960,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:121
+#: 400.en.adoc:122
 msgid ""
 "Complements the work of expert groups by integrating evidence that may "
 "inform judgements on species ranges and/or conservation priorities, while "
@@ -964,80 +969,80 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 400.en.adoc:122
+#: 400.en.adoc:123
 #, no-wrap
 msgid "AUDIENCE 4. Data users"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:127
+#: 400.en.adoc:128
 msgid "Biologists, including zoologists, botanists and other specialists"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:128
+#: 400.en.adoc:129
 msgid "Ecologists, including macroecologists and biogeographers"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:129
+#: 400.en.adoc:130
 msgid ""
 "Species distribution modellers (includes analysts of climate change impacts, "
 "invasive species risk, human disease vectors)"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:130
+#: 400.en.adoc:131
 msgid ""
 "Conservation practitioners, including protected area planners and natural "
 "resource managers"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:131
+#: 400.en.adoc:132
 msgid "Environmental impact analysts and strategic spatial planning authorities"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:132
+#: 400.en.adoc:133
 msgid "Genetic resources experts (for crop diversity, medicinal compounds etc.)"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:133
+#: 400.en.adoc:134
 msgid "Ecosystem assessment community"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:137
+#: 400.en.adoc:138
 msgid ""
 "Promoting wider knowledge of GBIF’s ability to provide significant volumes "
 "of data fit for many of the uses these groups require"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:138
+#: 400.en.adoc:139
 msgid ""
 "Fostering appreciation of the value and efficiency of having data from many "
 "different sources available from a single point of access"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:139
+#: 400.en.adoc:140
 msgid ""
 "Information resources on how to discover and use data through GBIF to best "
 "advantage, including recommendations on data filtering and cleaning"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:140
+#: 400.en.adoc:141
 msgid ""
 "Communicating the importance of good citation practices and providing the "
 "means to implement them simply"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:142
+#: 400.en.adoc:143
 msgid ""
 "Users of the data available through GBIF encompass a wide range of "
 "specialists interested in the recorded distribution of species over space "
@@ -1054,7 +1059,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:144
+#: 400.en.adoc:145
 msgid ""
 "Despite the diversity of these users, the disciplines and the sectors from "
 "which they emerge, they share a number of communication needs. Broadly "
@@ -1068,7 +1073,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:146
+#: 400.en.adoc:147
 msgid ""
 "Once such users succeed in making effective use of GBIF-mediated data, they "
 "can then become important communicators on GBIF’s behalf. They value the "
@@ -1081,7 +1086,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:148
+#: 400.en.adoc:149
 msgid ""
 "A final important communication requirement for data users is to convey the "
 "importance of proper citation of original data sources in research or policy "
@@ -1096,40 +1101,40 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:152
+#: 400.en.adoc:153
 msgid "GBIF is particularly valuable to data users because it:"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:154
+#: 400.en.adoc:155
 msgid ""
 "Provides a one-stop shop for large volumes of relevant, well-organized data "
 "on the occurrence of species over space and time"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:155
+#: 400.en.adoc:156
 msgid ""
 "Reduces costs of research by preventing the need to discover and obtain data "
 "from multiple sources"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:156
+#: 400.en.adoc:157
 msgid ""
 "Enables modelling of species distributions to inform a wide range of "
 "research and policy goals"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:157
+#: 400.en.adoc:158
 msgid ""
 "Provides a data layer that can be combined and integrated with other "
 "geospatial layers to create compelling visualizations for many applications"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:158
+#: 400.en.adoc:159
 msgid ""
 "Integrates evidence of species occurrence that can supplement other sources "
 "to create inventories and checklists for any geographical area, including "
@@ -1137,54 +1142,54 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 400.en.adoc:159
+#: 400.en.adoc:160
 #, no-wrap
 msgid "AUDIENCE 5. Decision makers"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:164
+#: 400.en.adoc:165
 msgid "National government ministry and agency officials"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:165
+#: 400.en.adoc:166
 msgid "Research funding agencies"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:166
+#: 400.en.adoc:167
 msgid "Intergovernmental convention officials and national delegates"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:167
+#: 400.en.adoc:168
 msgid "Global foundations"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:171
+#: 400.en.adoc:172
 msgid ""
 "Convincing leaders that GBIF’s mission coincides with high-priority policy "
 "objectives and global commitments"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:172
+#: 400.en.adoc:173
 msgid ""
 "Demonstrating that investment in GBIF (globally and in-country) represents a "
 "cost-effective means of supporting those objectives and commitments"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:173
+#: 400.en.adoc:174
 msgid ""
 "Persuasion that GBIF is not in competition with other biodiversity-related "
 "initiatives but rather supports and complements them."
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:175
+#: 400.en.adoc:176
 msgid ""
 "GBIF’s future depends in part on remaining useful and relevant to a "
 "relatively small number of decision makers in key policymaking and funding "
@@ -1200,7 +1205,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:177
+#: 400.en.adoc:178
 msgid ""
 "Communications with this group should convince them to conclude that GBIF "
 "supports the objectives and obligations already on their list of "
@@ -1213,7 +1218,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:179
+#: 400.en.adoc:180
 msgid ""
 "In addition to convincing this audience of GBIF’s relevance, communication "
 "with them must also articulate the cost-effectiveness of investing in both "
@@ -1223,7 +1228,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:181
+#: 400.en.adoc:182
 msgid ""
 "Finally, engaging this audience needs to pre-empt questions about any "
 "perceived duplication between GBIF and other biodiversity-related "
@@ -1234,12 +1239,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:185
+#: 400.en.adoc:186
 msgid "GBIF is particularly valuable to decision makers because it:"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:187
+#: 400.en.adoc:188
 msgid ""
 "Supports the information requirements for meeting national and global "
 "commitments, including biodiversity-related conventions and sustainable "
@@ -1247,28 +1252,28 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:188
+#: 400.en.adoc:189
 msgid ""
 "Leverages national, regional and global investment in scientific research by "
 "enabling cost-effective discovery and re-use of existing biodiversity data"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:189
+#: 400.en.adoc:190
 msgid ""
 "Complements other biodiversity-related initiatives by providing data "
 "foundations for a wide range of studies, projects and applications"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:190
+#: 400.en.adoc:191
 msgid ""
 "Helps to fulfil commitments to improve transparency and open access to "
 "scientific data"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:191
+#: 400.en.adoc:192
 msgid ""
 "Supports applied research relevant to policy decisions across a range of "
 "issues of primary economic and social importance, including food security, "
@@ -1276,48 +1281,48 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 400.en.adoc:192
+#: 400.en.adoc:193
 #, no-wrap
 msgid "AUDIENCE 6. Public stakeholders"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:197
+#: 400.en.adoc:198
 msgid "Early-career scientists"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:198
+#: 400.en.adoc:199
 msgid "Educators (professors and teachers)"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:199
+#: 400.en.adoc:200
 msgid "University students in biodiversity, environment and life sciences"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:200
+#: 400.en.adoc:201
 msgid "School students (tertiary, secondary, primary)"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:201
+#: 400.en.adoc:202
 msgid "Wildlife enthusiasts"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:202
+#: 400.en.adoc:203
 msgid "Environmentally engaged individuals"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:203
+#: 400.en.adoc:204
 msgid "The wider software developer community"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:205
+#: 400.en.adoc:206
 msgid ""
 "The audiences listed in the earlier part of this strategy each have distinct "
 "communication requirements that are indispensable to the GBIF’s global "
@@ -1330,7 +1335,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:207
+#: 400.en.adoc:208
 msgid ""
 "This broad audience of public stakeholders includes early-career scientists, "
 "educators and students (particularly in the life sciences), wildlife "
@@ -1344,7 +1349,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:209
+#: 400.en.adoc:210
 msgid ""
 "Engagement with these groups is probably most effective in the context of "
 "citizen science (see also Audience Group 2 – Data holders). Several GBIF "
@@ -1359,7 +1364,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:211
+#: 400.en.adoc:212
 msgid ""
 "A final set of stakeholders is the wider group of software developers that "
 "shows interest and appreciation of the open-access research infrastructure "
@@ -1373,31 +1378,31 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:215
+#: 400.en.adoc:216
 msgid "GBIF is particularly valuable to public stakeholders because it:"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:217
+#: 400.en.adoc:218
 msgid "Establishes a foundation for greater knowledge about biodiversity worldwide"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:218
+#: 400.en.adoc:219
 msgid ""
 "Offers opportunities to explore the global body of evidence about life on "
 "earth"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:219
+#: 400.en.adoc:220
 msgid ""
 "Promotes a culture of transparency, open access and evidence-based "
 "decision-making with benefits to all"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:219
+#: 400.en.adoc:220
 msgid ""
 "Offers examples of innovative solutions for informatics and research "
 "infrastructure that are relevant and applicable to other communities and "
