@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-communications-strategy\n"
-"POT-Creation-Date: 2021-03-04 12:15+0000\n"
-"PO-Revision-Date: 2021-05-18 13:01\n"
+"POT-Creation-Date: 2021-10-13 11:26+0000\n"
+"PO-Revision-Date: 2021-10-18 14:19\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -140,8 +140,8 @@ msgstr "Imagem de Capa"
 #.  Caption. Credit, source, licence.
 #. type: Plain text
 #: colophon.en.adoc:27
-msgid "Long-beaked common dolphin (_Delphinus capensis_), South Atlantic Ocean. Photo 2019 Ken Chamberlain via https://www.gbif.org/occurrence/2235477584[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
-msgstr "Golfinho comum de bico longo (_Delphinus capensis_), Oceano Atlântico Sul. Foto 2019 Ken Chamberlain via https://www.gbif.org/pt/occurrence/2235477584[iNaturalist observações com nível de pesquisa], licenciada com http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
+msgid "Common dolphins (_Delphinus_), South Atlantic Ocean. Photo 2019 Ken Chamberlain via https://www.inaturalist.org/observations/21608671[iNaturalist.org], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
+msgstr ""
 
 #. type: Title ==
 #: 100.en.adoc:1
