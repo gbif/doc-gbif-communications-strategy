@@ -11,8 +11,10 @@ Effective engagement with each of these audiences will enhance GBIF’s ability 
 * Node managers, staff, and governance members
 * Heads of delegation and other Governing Board delegates
 *	Advisory committee members
-*	Secretariat staff and contractors
+*	Secretariat staff
+* GBIF contractors
 *	Relevant staff in GBIF affiliate organizations and those with memoranda of cooperation with GBIF Secretariat
+* Current GBIF data publishers
 
 ==== Primary communication needs
 
@@ -47,7 +49,6 @@ GBIF is particularly valuable to network members because it:
 
 ==== Constituent segments 
 
-* Current GBIF data publishers
 *	Natural history collection curators, informaticians and scientists
 *	Field biologists
 *	Citizen scientists, voluntary recording networks and observation aggregating sites 
